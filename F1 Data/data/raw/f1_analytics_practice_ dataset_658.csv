@@ -1,0 +1,659 @@
+record_id,season,round,grand_prix,circuit_name,city,driver,team,grid_position,qualifying_position,finish_position,race_status,points_scored,pit_stops,fastest_lap_seconds,race_duration_minutes,weather,tyre_compound,safety_car,overtakes
+1,2025,18,Qatar,Lusail International Circuit,Lusail,Nico Hulkenberg,Haas,7,7,1.0,Finished,25,2,94.796,84.46,Rain,Medium,No,14.0
+2,2024,10,Netherlands,Circuit Zandvoort,Zandvoort,Oscar Piastri,McLaren,15,11,15.0,Finished,0,2,90.246,104.01,Dry,Soft,No,28.0
+3,2025,17,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Daniel Ricciardo,RB,4,1,5.0,Finished,10,2,100.935,112.75,Dry,Medium,Yes,20.0
+4,2024,21,Great Britain,Silverstone Circuit,Silverstone,Alexander Albon,Williams,8,12,,Retired,0,3,102.243,78.39,Dry,Wet,No,6.0
+5,2022,15,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Daniel Ricciardo,RB,5,3,7.0,Finished,6,4,108.023,101.93,Rain,Hard,No,5.0
+6,2025,16,Austria,Red Bull Ring,Spielberg,Daniel Ricciardo,RB,4,7,,Retired,0,2,96.525,107.02,Mixed,Soft,No,33.0
+7,2025,6,Belgium,Circuit de Spa-Francorchamps,Stavelot,Esteban Ocon,Alpine,4,2,,Retired,0,4,85.892,97.11,Dry,Medium,Yes,15.0
+8,2025,6,BELGIUM ,Circuit de Spa-Francorchamps,Stavelot,George Russell,Mercedes,4,4,,DNF,0,2,118.342,115.98,Dry,Soft,No,24.0
+9,2022,10,Azerbaijan,Baku City Circuit,Baku,Esteban Ocon,Alpine,12,13,1.0,Finished,25,2,92.3,80.07,Dry,Soft,Yes,12.0
+10,2024,20,China,Shanghai International Circuit,Shanghai,Kevin Magnussen,Haas,9,7,,DNF,0,3,121.147,90.58,Dry,Medium,No,3.0
+11,2023,13,Brazil,Interlagos Circuit,Sao Paulo,Oliver Bearman,HAAS ,9,12,1.0,Finished,25,3,85.368,122.25,,Medium,Yes,14.0
+12,2025,9,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Zhou Guanyu,Kick Sauber,10,10,7.0,Finished,6,3,103.003,87.66,Dry,,No,24.0
+13,2024,18,Japan,Suzuka International Racing Course,Suzuka,Lando Norris,McLaren,15,16,20.0,Finished,0,2,101.831,115.66,Mixed,Intermediate,No,11.0
+14,2025,20,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Alexander Albon,Williams,18,17,16.0,Finished,0,2,116.432,79.06,Dry,Medium,Yes,21.0
+15,2024,21,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Charles Leclerc,Ferrari,11,12,4.0,Finished,12,2,81.943,97.01,Dry,Intermediate,No,15.0
+16,2023,7,United States,Circuit of The Americas,Austin,Lance Stroll,Aston Martin,13,16,8.0,Finished,4,2,120.497,81.44,Mixed,Medium,No,11.0
+17,2024,17,Spain,Circuit de Barcelona-Catalunya,Barcelona,Oliver Bearman,Haas,15,15,20.0,Finished,0,3,101.571,107.76,DRY ,Medium,No,8.0
+18,2022,14,Great Britain,Silverstone Circuit,Silverstone,Lewis Hamilton,Mercedes,14,17,4.0,Finished,12,1,104.305,113.75,Rain,Hard,No,9.0
+19,2025,11,Brazil,Interlagos Circuit,Sao Paulo,Lance Stroll,Aston Martin,3,2,,Retired,0,2,100.508,119.32,Dry,Soft,Yes,8.0
+20,2024,10,Japan,Suzuka International Racing Course,Suzuka,Zhou Guanyu,Kick Sauber,20,20,20.0,Finished,0,2,76.801,123.5,Mixed,Medium,No,25.0
+21,2025,3,Brazil,Interlagos Circuit,Sao Paulo,Kevin Magnussen,Haas,4,5,1.0,Finished,25,2,99.855,107.9,Dry,Hard,No,11.0
+22,2023,7,Qatar,Lusail International Circuit,Lusail,Fernando Alonso,Aston Martin,9,7,6.0,Finished,8,2,88.177,113.48,Dry,Medium,No,25.0
+23,2025,13,Azerbaijan,Baku City Circuit,Baku,Charles Leclerc,Ferrari,14,14,9.0,Finished,2,2,92.134,102.67,Rain,Hard,No,10.0
+24,2025,21,Canada,Circuit Gilles-Villeneuve,Montreal,Zhou Guanyu,Kick Sauber,9,9,13.0,Finished,0,2,107.455,125.58,Dry,Medium,No,11.0
+25,2025,20,Belgium,Circuit de Spa-Francorchamps,Stavelot,Zhou Guanyu,Kick Sauber,5,3,9.0,Finished,2,2,99.885,108.94,Dry,Hard,Yes,32.0
+26,2023,5,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Alexander Albon,WILLIAMS ,19,20,10.0,Finished,1,2,79.661,121.59,Rain,Soft,No,30.0
+27,2024,16,Qatar,Lusail International Circuit,Lusail,Oliver Bearman,Haas,2,2,1.0,Finished,25,2,78.652,86.17,Dry,Soft,No,14.0
+28,2022,2,Canada,Circuit Gilles-Villeneuve,Montreal,Max Verstappen,Red Bull Racing,5,5,1.0,Finished,25,3,84.283,97.71,Mixed,Medium,No,9.0
+29,2023,16,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Yuki Tsunoda,RB,20,20,20.0,Finished,0,2,84.544,113.45,Dry,Hard,No,25.0
+30,2024,8,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Max Verstappen,Red Bull Racing,15,15,,Retired,0,2,105.415,85.65,Dry,Soft,Yes,2.0
+31,2024,11,Azerbaijan,Baku City Circuit,Baku,Zhou Guanyu,Kick Sauber,2,1,10.0,Finished,1,2,83.891,81.3,Dry,Hard,Yes,15.0
+32,2025,17,Italy,Autodromo Nazionale Monza,Monza,Lance Stroll,,16,16,,Retired,0,4,119.086,122.92,Dry,Soft,No,20.0
+33,2023,10,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Zhou Guanyu,Kick Sauber,20,19,14.0,Finished,0,3,85.488,96.48,Mixed,Medium,No,23.0
+34,2023,19,United States,Circuit of The Americas,Austin,Alexander Albon,Williams,2,7,1.0,Finished,25,2,79.557,82.56,Dry,Medium,No,3.0
+35,2024,13,Italy,Autodromo Nazionale Monza,Monza,Lewis Hamilton,Mercedes,9,6,5.0,Finished,10,2,118.787,96.02,Dry,Soft,No,0.0
+36,2023,23,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Max Verstappen,Red Bull Racing,10,9,4.0,Finished,12,1,89.766,96.31,Dry,Intermediate,No,9.0
+37,2022,15,Brazil,Interlagos Circuit,Sao Paulo,Carlos Sainz,Ferrari,3,2,,DNS,0,4,96.271,110.27,Dry,Medium,No,4.0
+38,2024,7,China,Shanghai International Circuit,Shanghai,Valtteri Bottas,Kick Sauber,5,9,1.0,Finished,25,2,122.951,121.94,Dry,Hard,Yes,17.0
+39,2023,18,China,Shanghai International Circuit,Shanghai,Lando Norris,McLaren,4,1,1.0,Finished,25,2,122.218,124.57,Rain,Medium,No,32.0
+40,2024,10,Qatar,Lusail International Circuit,Lusail,Nico Hulkenberg,Haas,4,5,2.0,Finished,18,4,110.746,104.78,Rain,Medium,No,10.0
+41,2024,13,Belgium,Circuit de Spa-Francorchamps,Stavelot,Oscar Piastri,McLaren,9,9,1.0,Finished,25,3,78.447,110.03,Mixed,Hard,Yes,15.0
+42,2025,4,Great Britain,Silverstone Circuit,Silverstone,Pierre Gasly,Alpine,10,11,,DNF,0,1,104.667,91.13,,Intermediate,Yes,7.0
+43,2024,3,Monaco,Circuit de Monaco,Monte Carlo,Oscar Piastri,McLaren,5,7,1.0,Finished,25,1,124.454,113.76,Dry,Hard,Yes,1.0
+44,2023,14,Italy,Autodromo Nazionale Monza,Monza,Pierre Gasly,Alpine,6,8,2.0,Finished,18,1,122.346,84.27,Dry,Medium,Yes,24.0
+45,2025,5,United States,Circuit of The Americas,Austin,Pierre Gasly,Alpine,4,3,14.0,Finished,0,2,80.3,79.35,Rain,Hard,No,8.0
+46,2025,23,Bahrain,Bahrain International Circuit,Sakhir,Max Verstappen,Red Bull Racing,16,16,16.0,Finished,0,1,94.798,124.9,Dry,Hard,Yes,19.0
+47,2023,20,Belgium,Circuit de Spa-Francorchamps,Stavelot,Alexander Albon,Williams,5,1,6.0,Finished,8,3,90.777,119.59,Dry,Medium,No,23.0
+48,2023,17,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Daniel Ricciardo,RB,19,19,10.0,Finished,1,3,81.486,88.44,Dry,Hard,Yes,29.0
+49,2024,17,Monaco,Circuit de Monaco,Monte Carlo,Zhou Guanyu,Kick Sauber,11,9,8.0,Finished,4,2,109.74,110.17,Rain,Medium,Yes,6.0
+50,2022,14,Monaco,Circuit de Monaco,Monte Carlo,Carlos Sainz,Ferrari,17,17,18.0,Finished,0,2,88.692,97.8,Rain,Hard,No,20.0
+51,2023,2,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Nico Hulkenberg,Haas,13,10,8.0,Finished,4,2,92.243,82.55,Mixed,Intermediate,Yes,31.0
+52,2022,10,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Nico Hulkenberg,Haas,6,7,11.0,Finished,0,1,79.518,87.88,Dry,Intermediate,No,16.0
+53,2025,12,Austria,Red Bull Ring,Spielberg,Oliver Bearman,Haas,13,10,,Retired,0,3,99.898,85.04,,Hard,No,1.0
+54,2024,22,Great Britain,Silverstone Circuit,Silverstone,Fernando Alonso,Aston Martin,6,6,5.0,Finished,10,2,82.908,97.42,Dry,Hard,Yes,9.0
+55,2024,6,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Nico Hulkenberg,Haas,3,1,1.0,Finished,25,2,96.605,97.67,Dry,Hard,Yes,27.0
+56,2025,12,Australia,Albert Park Grand Prix Circuit,Melbourne,Alexander Albon,Williams,6,4,7.0,Finished,6,2,82.167,105.37,Dry,Soft,No,27.0
+57,2024,8,Austria,Red Bull Ring,Spielberg,Lewis Hamilton,Mercedes,6,8,3.0,Finished,15,1,122.692,83.49,Dry,Medium,No,11.0
+58,2024,4,Japan,Suzuka International Racing Course,Suzuka,George Russell,Mercedes,3,4,2.0,Finished,18,2,82.249,121.94,,Medium,No,6.0
+59,2022,3,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Lance Stroll,Aston Martin,1,3,1.0,Finished,25,3,101.094,103.02,Dry,Soft,No,10.0
+60,2022,9,Italy,Autodromo Nazionale Monza,Monza,Lando Norris,McLaren,19,20,15.0,Finished,0,3,84.849,124.86,Dry,Intermediate,No,8.0
+61,2024,2,Hungary,Hungaroring,Budapest,Sergio Perez,Red Bull Racing,11,9,13.0,Finished,0,2,78.818,80.21,Dry,Hard,No,25.0
+62,2024,2,Austria,Red Bull Ring,Spielberg,Daniel Ricciardo,RB,9,12,10.0,Finished,1,3,85.115,106.28,Rain,Medium,No,29.0
+63,2024,9,Japan,Suzuka International Racing Course,Suzuka,Charles Leclerc,Ferrari,19,16,19.0,Finished,0,2,77.739,121.54,Rain,Medium,No,1.0
+64,2025,5,Qatar,Lusail International Circuit,Lusail,Pierre Gasly,Alpine,5,6,3.0,Finished,15,3,81.97,93.53,Dry,Hard,No,25.0
+65,2024,13,Italy,Autodromo Nazionale Monza,Monza,Oscar Piastri,McLaren,9,8,13.0,Finished,0,2,99.674,82.13,Dry,Medium,No,26.0
+66,2024,1,Canada,Circuit Gilles-Villeneuve,Montreal,Esteban Ocon,Alpine,17,15,16.0,Finished,0,2,107.591,86.31,Rain,Hard,No,21.0
+67,2024,7,Austria,Red Bull Ring,Spielberg,Oscar Piastri,McLaren,13,14,11.0,Finished,0,4,79.367,90.13,Dry,Wet,No,30.0
+68,2023,11,Singapore,Marina Bay Street Circuit,Singapore,Oliver Bearman,Haas,8,10,,Retired,0,2,97.051,95.49,Dry,Medium,No,1.0
+69,2022,23,Singapore,Marina Bay Street Circuit,Singapore,Lewis Hamilton,Mercedes,6,8,14.0,Finished,0,1,104.062,84.95,Dry,Medium,No,24.0
+70,2024,15,Great Britain,Silverstone Circuit,Silverstone,Oliver Bearman,Haas,1,1,1.0,Finished,25,2,86.711,88.4,Dry,Medium,Yes,4.0
+71,2023,21,Monaco,Circuit de Monaco,Monte Carlo,Daniel Ricciardo,RB,2,2,6.0,Finished,8,2,93.604,102.98,Dry,Soft,No,31.0
+72,2024,8,Azerbaijan,Baku City Circuit,Baku,Nico Hulkenberg,Haas,4,5,1.0,Finished,25,2,78.592,82.5,Dry,Medium,No,17.0
+73,2025,11,Azerbaijan,Baku City Circuit,Baku,Nico Hulkenberg,Haas,16,17,17.0,Finished,0,2,86.007,92.55,Dry,Soft,No,3.0
+74,2023,10,Netherlands,Circuit Zandvoort,Zandvoort,Lando Norris,McLaren,13,14,20.0,Finished,0,3,98.338,106.77,Dry,Soft,No,26.0
+75,2022,21,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Zhou Guanyu,Kick Sauber,9,9,11.0,Finished,0,2,124.522,81.7,Dry,Medium,No,26.0
+76,2023,23,Great Britain,Silverstone Circuit,Silverstone,Alexander Albon,Williams,16,18,17.0,Finished,0,2,124.813,80.38,Dry,Soft,No,16.0
+77,2023,23,Italy,Autodromo Nazionale Monza,Monza,Oliver Bearman,Haas,4,1,,DNF,0,2,123.981,81.73,Dry,Hard,No,10.0
+78,2024,18,Qatar,Lusail International Circuit,Lusail,Nico Hulkenberg,Haas,5,5,5.0,Finished,10,3,96.154,78.1,Dry,Soft,Yes,0.0
+79,2024,12,Belgium,Circuit de Spa-Francorchamps,Stavelot,Alexander Albon,Williams,8,5,,Retired,0,2,79.034,105.38,DRY ,Hard,No,31.0
+80,2025,13,Canada,Circuit Gilles-Villeneuve,Montreal,Fernando Alonso,Aston Martin,19,20,,DNS,0,2,91.179,79.13,Dry,Soft,No,6.0
+81,2024,23,Belgium,Circuit de Spa-Francorchamps,Stavelot,Charles Leclerc,Ferrari,13,16,,Retired,0,2,86.886,88.37,Dry,Soft,No,29.0
+82,2024,7,China,Shanghai International Circuit,Shanghai,Charles Leclerc,Ferrari,18,17,19.0,Finished,0,3,75.706,123.44,Dry,Soft,Yes,20.0
+83,2025,8,Australia,Albert Park Grand Prix Circuit,Melbourne,Fernando Alonso,Aston Martin,5,5,1.0,Finished,25,3,79.762,118.05,Dry,Hard,No,23.0
+84,2023,21,Azerbaijan,Baku City Circuit,Baku,Kevin Magnussen,Haas,17,19,13.0,Finished,0,2,97.66,91.93,Dry,Medium,No,24.0
+85,2022,9,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Esteban Ocon,Alpine,2,1,1.0,Finished,25,3,91.983,89.93,Dry,Medium,No,30.0
+86,2022,6,Brazil,Interlagos Circuit,Sao Paulo,Pierre Gasly,Alpine,5,4,,Retired,0,2,84.018,104.53,Dry,Soft,Yes,1.0
+87,2024,13,Netherlands,Circuit Zandvoort,Zandvoort,Oscar Piastri,McLaren,11,12,14.0,Finished,0,1,110.805,121.4,Rain,Wet,No,34.0
+88,2024,8,Bahrain,Bahrain International Circuit,Sakhir,Alexander Albon,Williams,2,1,3.0,Finished,15,2,92.856,109.91,Dry,Soft,Yes,
+89,2023,21,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Yuki Tsunoda,RB,18,16,20.0,Finished,0,1,117.593,79.31,Rain,Medium,No,34.0
+90,2024,21,Great Britain,Silverstone Circuit,Silverstone,Oliver Bearman,Haas,18,20,18.0,Finished,0,2,87.049,79.22,Dry,Hard,No,9.0
+91,2023,8,Monaco,Circuit de Monaco,Monte Carlo,Valtteri Bottas,Kick Sauber,11,13,13.0,Finished,0,2,101.92,95.6,Dry,Medium,No,29.0
+92,2024,13,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Yuki Tsunoda,RB,7,8,9.0,Finished,2,2,84.207,118.32,Rain,Medium,No,2.0
+93,2024,23,United States,Circuit of The Americas,Austin,Zhou Guanyu,Kick Sauber,2,4,,Retired,0,2,99.765,128.09,Dry,Hard,No,16.0
+94,2023,18,United States,Circuit of The Americas,Austin,Sergio Perez,Red Bull Racing,13,13,10.0,Finished,1,2,82.623,77.14,Dry,Medium,No,18.0
+95,2023,5,Monaco,Circuit de Monaco,Monte Carlo,Zhou Guanyu,Kick Sauber,11,12,20.0,Finished,0,3,83.079,104.4,DRY ,,Yes,33.0
+96,2024,14,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Fernando Alonso,Aston Martin,16,15,14.0,Finished,0,3,105.611,84.63,MIXED ,Medium,Yes,4.0
+97,2023,15,Great Britain,Silverstone Circuit,Silverstone,Charles Leclerc,Ferrari,13,13,,DNF,0,2,88.189,109.3,Mixed,Soft,No,
+98,2022,16,Belgium,Circuit de Spa-Francorchamps,Stavelot,Sergio Perez,Red Bull Racing,3,2,5.0,Finished,10,2,83.618,121.15,Dry,Intermediate,No,22.0
+99,2022,1,United States,Circuit of The Americas,Austin,Charles Leclerc,Ferrari,3,6,4.0,Finished,12,2,121.488,94.6,Rain,Hard,No,1.0
+100,2025,7,Azerbaijan,Baku City Circuit,Baku,Charles Leclerc,Ferrari,16,19,9.0,Finished,2,2,77.15,79.47,Dry,Medium,No,27.0
+101,2025,20,Japan,Suzuka International Racing Course,Suzuka,Nico Hulkenberg,Haas,4,7,,Retired,0,2,103.257,105.5,Dry,Soft,No,1.0
+102,2024,6,Monaco,Circuit de Monaco,Monte Carlo,Daniel Ricciardo,RB,19,18,19.0,Finished,0,2,102.413,96.41,Dry,Hard,No,33.0
+103,2023,7,Spain,Circuit de Barcelona-Catalunya,Barcelona,Oscar Piastri,McLaren,3,1,1.0,Finished,25,3,87.53,117.26,Dry,Hard,No,18.0
+104,2025,8,Qatar,Lusail International Circuit,Lusail,Kevin Magnussen,Haas,15,18,,DNS,0,2,97.639,96.26,Dry,Soft,Yes,33.0
+105,2025,5,Singapore,Marina Bay Street Circuit,Singapore,Lewis Hamilton,Mercedes,20,20,20.0,Finished,0,2,79.387,121.56,Rain,Hard,Yes,4.0
+106,2024,4,Spain,Circuit de Barcelona-Catalunya,Barcelona,George Russell,Mercedes,9,10,3.0,Finished,15,2,111.064,88.9,Dry,Medium,Yes,9.0
+107,2024,8,Singapore,Marina Bay Street Circuit,Singapore,Valtteri Bottas,Kick Sauber,2,1,11.0,Finished,0,3,86.085,79.36,Dry,Hard,No,15.0
+108,2023,21,Singapore,Marina Bay Street Circuit,Singapore,Carlos Sainz,Ferrari,18,19,20.0,Finished,0,1,84.669,88.52,Dry,Medium,No,1.0
+109,2022,1,Austria,Red Bull Ring,Spielberg,Valtteri Bottas,KICK SAUBER ,4,2,4.0,Finished,12,3,90.744,76.09,Dry,Soft,No,3.0
+110,2025,7,Austria,Red Bull Ring,Spielberg,Nico Hulkenberg,Haas,11,12,19.0,Finished,0,2,120.118,89.82,Dry,Hard,Yes,11.0
+111,2024,2,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Lewis Hamilton,Mercedes,20,20,20.0,Finished,0,2,114.823,106.57,Mixed,Hard,No,25.0
+112,2023,13,Belgium,Circuit de Spa-Francorchamps,Stavelot,Max Verstappen,Red Bull Racing,15,18,15.0,Finished,0,2,122.345,79.31,Dry,Medium,Yes,24.0
+113,2023,6,Japan,Suzuka International Racing Course,Suzuka,Zhou Guanyu,Kick Sauber,1,2,1.0,Finished,25,1,107.598,77.0,Dry,Soft,No,3.0
+114,2024,19,Singapore,Marina Bay Street Circuit,Singapore,Esteban Ocon,Alpine,17,14,20.0,Finished,0,3,108.146,76.67,Rain,Hard,Yes,2.0
+115,2023,14,Netherlands,Circuit Zandvoort,Zandvoort,Esteban Ocon,Alpine,4,4,6.0,Finished,8,2,99.002,78.17,Mixed,Soft,No,22.0
+116,2025,19,Hungary,Hungaroring,Budapest,Pierre Gasly,Alpine,15,19,,Retired,0,4,120.259,114.32,Mixed,Medium,Yes,12.0
+117,2025,15,Singapore,Marina Bay Street Circuit,Singapore,Sergio Perez,Red Bull Racing,13,11,9.0,Finished,2,2,100.544,119.2,Dry,Hard,No,27.0
+118,2024,11,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Lance Stroll,Aston Martin,6,6,7.0,Finished,6,3,92.753,76.15,Dry,Soft,No,10.0
+119,2024,20,Canada,Circuit Gilles-Villeneuve,Montreal,Alexander Albon,Williams,9,12,9.0,Finished,2,3,107.019,109.0,Dry,Soft,No,12.0
+120,2024,11,Austria,Red Bull Ring,Spielberg,Lando Norris,McLaren,3,4,1.0,Finished,25,2,102.307,113.0,Rain,Soft,Yes,7.0
+121,2024,22,China,Shanghai International Circuit,Shanghai,Yuki Tsunoda,RB,20,20,13.0,Finished,0,2,81.201,127.07,Mixed,Intermediate,No,9.0
+122,2024,23,Italy,Autodromo Nazionale Monza,Monza,Lance Stroll,Aston Martin,5,4,8.0,Finished,4,3,94.636,90.75,Rain,Medium,No,24.0
+123,2022,14,Austria,Red Bull Ring,Spielberg,Charles Leclerc,Ferrari,7,5,1.0,Finished,25,2,90.666,87.96,Dry,Hard,No,16.0
+124,2024,16,Canada,Circuit Gilles-Villeneuve,Montreal,Fernando Alonso,Aston Martin,11,13,12.0,Finished,0,4,117.342,99.27,Dry,Wet,No,
+125,2022,6,Singapore,Marina Bay Street Circuit,Singapore,Daniel Ricciardo,RB,14,12,12.0,Finished,0,2,93.942,115.69,Dry,Hard,No,2.0
+126,2024,19,Austria,Red Bull Ring,Spielberg,Yuki Tsunoda,RB,11,11,18.0,Finished,0,2,116.078,109.08,Dry,Medium,No,18.0
+127,2023,16,Great Britain,Silverstone Circuit,Silverstone,Charles Leclerc,Ferrari,11,11,9.0,Finished,2,2,97.119,102.17,Dry,Medium,No,16.0
+128,2022,21,Great Britain,Silverstone Circuit,Silverstone,Max Verstappen,Red Bull Racing,12,14,15.0,Finished,0,3,112.675,89.88,Dry,Medium,No,31.0
+129,2022,7,Miami,Miami International Autodrome,Miami,Alexander Albon,Williams,18,19,16.0,Finished,0,4,81.764,113.16,Dry,Hard,Yes,14.0
+130,2024,19,Australia,Albert Park Grand Prix Circuit,Melbourne,Pierre Gasly,Alpine,8,9,9.0,Finished,2,1,121.233,120.5,Mixed,Intermediate,No,3.0
+131,2023,11,Brazil,Interlagos Circuit,Sao Paulo,Oliver Bearman,Haas,17,16,20.0,Finished,0,3,99.028,89.07,Rain,Hard,Yes,24.0
+132,2025,5,Australia,Albert Park Grand Prix Circuit,Melbourne,Esteban Ocon,Alpine,16,18,14.0,Finished,0,3,87.99,112.49,Mixed,Medium,No,5.0
+133,2024,4,Canada,Circuit Gilles-Villeneuve,Montreal,Zhou Guanyu,Kick Sauber,20,20,20.0,Finished,0,1,87.074,96.19,Rain,Medium,No,31.0
+134,2023,13,Azerbaijan,Baku City Circuit,Baku,Oscar Piastri,McLaren,19,20,14.0,Finished,0,2,88.254,101.96,Rain,Hard,No,13.0
+135,2024,8,Japan,Suzuka International Racing Course,Suzuka,Sergio Perez,Red Bull Racing,16,16,17.0,Finished,0,3,93.336,102.41,Dry,Soft,No,27.0
+136,2022,3,AZERBAIJAN ,Baku City Circuit,Baku,Charles Leclerc,Ferrari,5,2,10.0,Finished,1,2,110.876,113.93,Dry,Hard,No,22.0
+137,2025,10,Singapore,Marina Bay Street Circuit,Singapore,Alexander Albon,Williams,16,15,19.0,Finished,0,1,122.48,123.05,Dry,Medium,No,16.0
+138,2024,16,Azerbaijan,Baku City Circuit,Baku,Lando Norris,McLaren,15,15,20.0,Finished,0,3,108.452,98.32,Dry,Hard,Yes,20.0
+139,2025,8,Canada,Circuit Gilles-Villeneuve,Montreal,,Alpine,6,5,2.0,Finished,18,2,102.358,91.18,Dry,Hard,No,6.0
+140,2022,22,Bahrain,Bahrain International Circuit,Sakhir,Carlos Sainz,Ferrari,14,14,7.0,Finished,6,3,97.43,96.28,Rain,Medium,No,2.0
+141,2024,18,LAS VEGAS ,Las Vegas Strip Circuit,Las Vegas,Lando Norris,McLaren,6,10,,Retired,0,3,116.41,76.94,Rain,Soft,No,26.0
+142,2024,12,Canada,Circuit Gilles-Villeneuve,Montreal,Lewis Hamilton,Mercedes,11,13,14.0,Finished,0,3,117.483,88.22,Mixed,Hard,No,33.0
+143,2025,22,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Esteban Ocon,Alpine,16,16,,Retired,0,2,89.652,85.46,Mixed,Medium,Yes,30.0
+144,2024,10,China,Shanghai International Circuit,Shanghai,Zhou Guanyu,Kick Sauber,4,2,5.0,Finished,10,2,122.671,94.52,Mixed,Medium,Yes,10.0
+145,2024,4,Japan,Suzuka International Racing Course,Suzuka,Lando Norris,McLaren,7,10,1.0,Finished,25,2,94.756,82.65,Dry,Medium,No,12.0
+146,2023,1,United States,Circuit of The Americas,Austin,Sergio Perez,Red Bull Racing,16,16,20.0,Finished,0,2,115.004,89.67,Mixed,Medium,No,12.0
+147,2023,22,Qatar,Lusail International Circuit,Lusail,Oscar Piastri,McLaren,10,7,4.0,Finished,12,2,123.341,115.69,Rain,Hard,No,24.0
+148,2024,23,Brazil,Interlagos Circuit,Sao Paulo,Kevin Magnussen,Haas,20,20,,Retired,0,2,110.183,85.09,Mixed,Soft,No,21.0
+149,2024,18,United States,Circuit of The Americas,Austin,Sergio Perez,Red Bull Racing,1,3,15.0,Finished,0,2,83.078,105.04,Dry,Medium,No,27.0
+150,2022,3,Miami,Miami International Autodrome,Miami,Oliver Bearman,Haas,15,10,17.0,Finished,0,1,104.307,122.61,Dry,Intermediate,No,33.0
+151,2025,7,Qatar,Lusail International Circuit,Lusail,Oscar Piastri,McLaren,17,15,20.0,Finished,0,2,80.939,101.25,Mixed,Soft,Yes,13.0
+152,2025,1,Azerbaijan,Baku City Circuit,Baku,Lewis Hamilton,Mercedes,19,19,,DNF,0,2,114.457,87.06,Dry,Medium,No,23.0
+153,2022,2,Japan,Suzuka International Racing Course,Suzuka,Alexander Albon,Williams,4,5,1.0,Finished,25,2,89.066,94.7,Dry,Hard,Yes,17.0
+154,2024,6,Australia,Albert Park Grand Prix Circuit,Melbourne,Lance Stroll,Aston Martin,20,19,17.0,Finished,0,3,109.761,107.68,Dry,Hard,No,33.0
+155,2022,14,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Oliver Bearman,Haas,8,6,3.0,Finished,15,1,120.504,100.75,Dry,Hard,No,12.0
+156,2024,2,Monaco,Circuit de Monaco,Monte Carlo,Nico Hulkenberg,Haas,8,9,,DNS,0,3,84.05,92.15,Dry,Hard,No,6.0
+157,2023,23,United States,Circuit of The Americas,Austin,Nico Hulkenberg,Haas,8,7,17.0,Finished,0,3,94.643,100.5,Mixed,Soft,No,13.0
+158,2024,11,Japan,Suzuka International Racing Course,Suzuka,Yuki Tsunoda,RB,13,14,14.0,Finished,0,2,107.356,103.13,Mixed,Medium,No,21.0
+159,2024,7,Monaco,Circuit de Monaco,Monte Carlo,Fernando Alonso,Aston Martin,14,12,,Retired,0,2,95.983,85.74,Mixed,Intermediate,No,33.0
+160,2025,12,Monaco,Circuit de Monaco,Monte Carlo,Sergio Perez,Red Bull Racing,10,7,8.0,Finished,4,2,83.741,105.33,Dry,Hard,No,29.0
+161,2022,19,Monaco,Circuit de Monaco,Monte Carlo,Charles Leclerc,Ferrari,2,4,1.0,Finished,25,2,76.454,82.79,Dry,Medium,Yes,0.0
+162,2025,8,Azerbaijan,Baku City Circuit,Baku,Sergio Perez,Red Bull Racing,20,20,20.0,Finished,0,2,95.33,96.96,Dry,Medium,No,17.0
+163,2023,2,Qatar,Lusail International Circuit,Lusail,Fernando Alonso,Aston Martin,5,7,5.0,Finished,10,2,107.46,119.65,Dry,Medium,No,5.0
+164,2022,2,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Max Verstappen,Red Bull Racing,2,1,5.0,Finished,10,3,103.699,90.32,Dry,Soft,No,12.0
+165,2024,20,UNITED STATES ,Circuit of The Americas,Austin,Oscar Piastri,McLaren,12,10,11.0,Finished,0,3,82.812,101.49,Rain,Intermediate,No,33.0
+166,2023,3,China,Shanghai International Circuit,Shanghai,Esteban Ocon,Alpine,9,12,7.0,Finished,6,3,97.535,96.96,Mixed,Hard,Yes,
+167,2025,15,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Fernando Alonso,Aston Martin,13,10,6.0,Finished,8,2,93.474,87.1,Dry,Medium,No,5.0
+168,2025,9,Belgium,Circuit de Spa-Francorchamps,Stavelot,Oliver Bearman,Haas,18,20,8.0,Finished,4,2,88.71,116.34,Dry,Medium,No,4.0
+169,2023,18,Belgium,Circuit de Spa-Francorchamps,Stavelot,Pierre Gasly,Alpine,2,5,1.0,Finished,25,4,111.464,92.88,Dry,Medium,No,24.0
+170,2025,2,Singapore,Marina Bay Street Circuit,Singapore,Oliver Bearman,Haas,6,8,6.0,Finished,8,2,90.483,88.4,Dry,Soft,No,14.0
+171,2023,21,United States,Circuit of The Americas,Austin,Lance Stroll,Aston Martin,11,10,5.0,Finished,10,1,102.007,123.18,Dry,Hard,Yes,15.0
+172,2024,17,Qatar,Lusail International Circuit,Lusail,Max Verstappen,Red Bull Racing,16,14,16.0,Finished,0,2,121.161,113.79,Dry,Medium,Yes,30.0
+173,2023,11,Netherlands,Circuit Zandvoort,Zandvoort,Oscar Piastri,McLaren,13,13,13.0,Finished,0,2,101.964,110.68,Dry,Soft,Yes,32.0
+174,2025,5,Italy,Autodromo Nazionale Monza,Monza,Valtteri Bottas,Kick Sauber,8,5,1.0,Finished,25,2,105.851,74.52,Dry,Hard,Yes,31.0
+175,2023,23,United States,Circuit of The Americas,Austin,Esteban Ocon,Alpine,13,11,,DNF,0,1,78.662,81.25,Mixed,Wet,No,27.0
+176,2022,7,Miami,Miami International Autodrome,Miami,Carlos Sainz,Ferrari,20,20,20.0,Finished,0,2,83.907,102.4,Dry,Soft,No,34.0
+177,2024,12,Canada,Circuit Gilles-Villeneuve,Montreal,Esteban Ocon,Alpine,10,11,12.0,Finished,0,2,80.048,79.46,Dry,Medium,No,25.0
+178,2025,10,Italy,Autodromo Nazionale Monza,Monza,Zhou Guanyu,Kick Sauber,18,16,12.0,Finished,0,2,113.241,88.5,Dry,Medium,No,30.0
+179,2025,6,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Fernando Alonso,Aston Martin,16,17,17.0,Finished,0,1,116.796,111.7,Dry,Soft,No,18.0
+180,2024,10,Canada,Circuit Gilles-Villeneuve,Montreal,Max Verstappen,Red Bull Racing,7,8,,DNS,0,2,84.323,91.91,Dry,Medium,Yes,1.0
+181,2025,4,Singapore,Marina Bay Street Circuit,Singapore,Carlos Sainz,Ferrari,5,8,9.0,Finished,2,3,85.964,81.9,RAIN ,Hard,Yes,28.0
+182,2025,1,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Zhou Guanyu,Kick Sauber,16,17,16.0,Finished,0,2,91.16,74.96,Mixed,Soft,No,32.0
+183,2024,7,Hungary,Hungaroring,Budapest,Daniel Ricciardo,RB,5,7,3.0,Finished,15,3,104.554,98.93,Dry,Soft,No,10.0
+184,2023,3,Austria,Red Bull Ring,Spielberg,Kevin Magnussen,Haas,7,8,4.0,Finished,12,3,106.09,103.87,Dry,Hard,No,14.0
+185,2025,10,Great Britain,Silverstone Circuit,Silverstone,Zhou Guanyu,Kick Sauber,5,7,7.0,Finished,6,2,109.338,112.91,Dry,Medium,No,20.0
+186,2024,20,Azerbaijan,Baku City Circuit,Baku,Charles Leclerc,Ferrari,13,10,14.0,Finished,0,3,120.26,80.91,Dry,Hard,No,22.0
+187,2023,4,Belgium,Circuit de Spa-Francorchamps,Stavelot,George Russell,MERCEDES ,6,6,,DNS,0,3,89.752,83.42,Dry,Hard,Yes,23.0
+188,2022,1,Bahrain,Bahrain International Circuit,Sakhir,Lewis Hamilton,Mercedes,14,14,15.0,Finished,0,2,107.938,100.17,Mixed,Hard,Yes,13.0
+189,2024,3,Belgium,Circuit de Spa-Francorchamps,Stavelot,Max Verstappen,Red Bull Racing,19,19,20.0,Finished,0,1,102.986,99.13,Dry,Hard,Yes,29.0
+190,2023,12,Austria,Red Bull Ring,Spielberg,Kevin Magnussen,Haas,17,18,17.0,Finished,0,1,90.292,94.55,Dry,Hard,No,28.0
+191,2025,7,Singapore,Marina Bay Street Circuit,Singapore,Zhou Guanyu,Kick Sauber,19,20,20.0,Finished,0,4,120.371,122.35,Dry,Hard,No,32.0
+192,2023,12,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Lando Norris,McLaren,1,2,5.0,Finished,10,3,79.774,99.26,Dry,Medium,No,20.0
+193,2022,1,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Valtteri Bottas,Kick Sauber,10,10,6.0,Finished,8,3,110.6,98.48,Mixed,Medium,No,2.0
+194,2025,8,Italy,Autodromo Nazionale Monza,Monza,Esteban Ocon,Alpine,5,4,1.0,Finished,25,3,111.394,125.37,Dry,Medium,No,29.0
+195,2023,10,Spain,Circuit de Barcelona-Catalunya,Barcelona,Lewis Hamilton,Mercedes,19,20,20.0,Finished,0,1,120.766,79.4,Dry,Medium,No,2.0
+196,2023,10,Great Britain,Silverstone Circuit,Silverstone,Zhou Guanyu,Kick Sauber,15,16,16.0,Finished,0,3,100.929,118.77,Dry,Soft,No,6.0
+197,2024,13,China,Shanghai International Circuit,Shanghai,Nico Hulkenberg,Haas,7,5,1.0,Finished,25,2,91.081,97.79,Rain,Medium,No,9.0
+198,2025,18,Qatar,Lusail International Circuit,Lusail,Alexander Albon,Williams,12,12,,Retired,0,3,116.387,102.97,Dry,Medium,Yes,6.0
+199,2023,11,Brazil,Interlagos Circuit,Sao Paulo,Valtteri Bottas,Kick Sauber,13,10,17.0,Finished,0,1,113.541,126.41,Dry,Soft,Yes,25.0
+200,2023,20,Brazil,Interlagos Circuit,Sao Paulo,Fernando Alonso,Aston Martin,10,10,9.0,Finished,2,2,100.016,101.81,Dry,Medium,No,15.0
+201,2025,13,Canada,Circuit Gilles-Villeneuve,Montreal,Daniel Ricciardo,RB,10,10,7.0,Finished,6,3,113.393,94.23,Dry,Hard,No,7.0
+202,2025,6,Canada,Circuit Gilles-Villeneuve,Montreal,,Red Bull Racing,2,1,9.0,Finished,2,3,88.394,89.64,Mixed,Medium,No,0.0
+203,2024,6,Brazil,Interlagos Circuit,Sao Paulo,Oliver Bearman,Haas,10,13,5.0,Finished,10,2,104.475,115.22,Dry,Hard,No,7.0
+204,2022,8,Belgium,Circuit de Spa-Francorchamps,Stavelot,Lewis Hamilton,Mercedes,7,5,3.0,Finished,15,2,118.259,103.79,Dry,Medium,No,24.0
+205,2022,14,Singapore,Marina Bay Street Circuit,Singapore,Lando Norris,McLaren,17,18,18.0,Finished,0,2,90.899,90.1,Dry,Hard,No,27.0
+206,2023,6,Hungary,Hungaroring,Budapest,Oliver Bearman,Haas,18,20,,DNF,0,4,99.177,108.25,Dry,Hard,Yes,10.0
+207,2022,22,Great Britain,Silverstone Circuit,Silverstone,George Russell,Mercedes,16,18,18.0,Finished,0,2,122.552,107.08,Dry,Soft,Yes,2.0
+208,2024,12,Italy,Autodromo Nazionale Monza,Monza,Carlos Sainz,Ferrari,1,1,6.0,Finished,8,2,114.911,96.73,Rain,Wet,No,19.0
+209,2022,20,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Daniel Ricciardo,RB,17,15,18.0,Finished,0,2,119.352,76.41,Dry,Soft,No,27.0
+210,2024,16,CANADA ,Circuit Gilles-Villeneuve,Montreal,Lando Norris,McLaren,8,5,,DNF,0,2,94.262,95.03,Dry,Hard,Yes,2.0
+211,2024,8,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Esteban Ocon,Alpine,9,8,,DNS,0,2,124.825,72.87,Dry,Hard,Yes,27.0
+212,2024,6,Miami,Miami International Autodrome,Miami,George Russell,Mercedes,19,18,19.0,Finished,0,2,82.628,81.71,Rain,Medium,Yes,5.0
+213,2023,18,Austria,Red Bull Ring,Spielberg,Lando Norris,McLaren,18,17,19.0,Finished,0,3,100.939,100.11,Dry,,Yes,9.0
+214,2025,8,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Oliver Bearman,Haas,2,1,3.0,Finished,15,3,98.964,83.63,Dry,Medium,Yes,21.0
+215,2024,6,Qatar,Lusail International Circuit,Lusail,Lando Norris,McLaren,8,8,12.0,Finished,0,3,114.922,94.2,Dry,Soft,Yes,1.0
+216,2024,22,Qatar,Lusail International Circuit,Lusail,Lewis Hamilton,Mercedes,15,16,18.0,Finished,0,2,120.431,108.18,Dry,Soft,No,10.0
+217,2022,12,Canada,Circuit Gilles-Villeneuve,Montreal,Lance Stroll,Aston Martin,11,9,11.0,Finished,0,2,111.557,89.5,Mixed,Soft,No,4.0
+218,2022,2,Brazil,Interlagos Circuit,Sao Paulo,Nico Hulkenberg,Haas,6,5,2.0,Finished,18,3,106.341,128.94,Dry,Soft,No,7.0
+219,2025,12,Qatar,Lusail International Circuit,Lusail,Charles Leclerc,Ferrari,11,11,11.0,Finished,0,3,96.371,122.95,Dry,Hard,No,27.0
+220,2023,11,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Valtteri Bottas,Kick Sauber,18,18,18.0,Finished,0,2,100.516,101.32,Dry,Medium,No,8.0
+221,2023,20,Bahrain,Bahrain International Circuit,Sakhir,Esteban Ocon,Alpine,5,9,6.0,Finished,8,3,100.465,120.25,Dry,Medium,No,1.0
+222,2024,17,United States,Circuit of The Americas,Austin,Kevin Magnussen,Haas,15,15,20.0,Finished,0,3,76.018,119.88,Dry,Hard,No,7.0
+223,2024,5,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Charles Leclerc,Ferrari,15,12,12.0,Finished,0,3,100.152,90.41,Dry,Soft,No,3.0
+224,2025,4,United States,Circuit of The Americas,Austin,Oliver Bearman,Haas,18,19,20.0,Finished,0,3,117.799,112.4,Dry,Medium,Yes,21.0
+225,2023,14,Miami,Miami International Autodrome,Miami,Yuki Tsunoda,RB,6,7,11.0,Finished,0,2,110.464,85.06,Mixed,Hard,No,34.0
+226,2025,2,United States,Circuit of The Americas,Austin,Kevin Magnussen,Haas,5,5,5.0,Finished,10,2,114.785,111.5,,Intermediate,No,5.0
+227,2022,8,Australia,Albert Park Grand Prix Circuit,Melbourne,,Aston Martin,11,9,20.0,Finished,0,2,94.524,103.54,Dry,Medium,No,25.0
+228,2024,4,Hungary,Hungaroring,Budapest,Zhou Guanyu,Kick Sauber,11,15,9.0,Finished,2,1,101.449,70.05,Mixed,Soft,Yes,12.0
+229,2024,1,Italy,Autodromo Nazionale Monza,Monza,Yuki Tsunoda,RB,9,7,11.0,Finished,0,3,76.674,89.47,Mixed,Hard,No,2.0
+230,2022,22,Great Britain,Silverstone Circuit,Silverstone,Charles Leclerc,Ferrari,16,17,12.0,Finished,0,2,94.15,124.85,Dry,Hard,No,24.0
+231,2022,3,Singapore,Marina Bay Street Circuit,Singapore,Zhou Guanyu,Kick Sauber,16,16,14.0,Finished,0,2,98.721,86.21,Dry,Medium,No,7.0
+232,2024,1,Miami,Miami International Autodrome,Miami,Daniel Ricciardo,RB,5,6,6.0,Finished,8,3,87.76,82.11,Dry,Medium,Yes,17.0
+233,2025,22,Netherlands,Circuit Zandvoort,Zandvoort,Carlos Sainz,Ferrari,16,19,20.0,Finished,0,3,76.562,81.86,Dry,Soft,No,17.0
+234,2024,5,Italy,Autodromo Nazionale Monza,Monza,Esteban Ocon,Alpine,5,6,7.0,Finished,6,3,109.52,99.03,Dry,Hard,No,20.0
+235,2025,19,Italy,Autodromo Nazionale Monza,Monza,Fernando Alonso,Aston Martin,9,8,15.0,Finished,0,2,96.754,122.02,Dry,Intermediate,Yes,4.0
+236,2025,1,Monaco,Circuit de Monaco,Monte Carlo,Esteban Ocon,Alpine,1,3,1.0,Finished,25,3,95.784,118.97,Mixed,Hard,No,8.0
+237,2024,4,Canada,Circuit Gilles-Villeneuve,Montreal,Oliver Bearman,Haas,7,6,5.0,Finished,10,2,87.499,94.4,Dry,Medium,No,25.0
+238,2025,3,Miami,Miami International Autodrome,Miami,Nico Hulkenberg,Haas,20,20,20.0,Finished,0,2,101.892,87.02,Rain,Hard,No,32.0
+239,2022,17,Great Britain,Silverstone Circuit,Silverstone,Oscar Piastri,McLaren,9,6,11.0,Finished,0,1,96.901,78.98,Dry,Hard,Yes,0.0
+240,2022,15,Netherlands,Circuit Zandvoort,Zandvoort,Oliver Bearman,Haas,15,13,11.0,Finished,0,2,98.699,99.29,Dry,Medium,No,14.0
+241,2025,11,Spain,Circuit de Barcelona-Catalunya,Barcelona,Sergio Perez,Red Bull Racing,3,3,1.0,Finished,25,3,104.044,116.94,Mixed,Hard,No,30.0
+242,2025,6,Austria,Red Bull Ring,Spielberg,Valtteri Bottas,Kick Sauber,13,14,,DNF,0,2,75.316,112.4,Dry,Medium,Yes,10.0
+243,2023,3,Monaco,Circuit de Monaco,Monte Carlo,Daniel Ricciardo,RB,8,5,13.0,Finished,0,2,120.385,100.49,Dry,Medium,Yes,15.0
+244,2024,14,Miami,Miami International Autodrome,Miami,Pierre Gasly,Alpine,15,16,13.0,Finished,0,3,78.554,108.04,Dry,Medium,Yes,31.0
+245,2024,6,Azerbaijan,Baku City Circuit,Baku,Pierre Gasly,Alpine,19,17,20.0,Finished,0,3,97.546,93.63,Rain,Medium,No,33.0
+246,2025,14,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Pierre Gasly,Alpine,11,14,11.0,Finished,0,2,85.369,106.34,Dry,Wet,No,22.0
+247,2024,16,Monaco,Circuit de Monaco,Monte Carlo,Nico Hulkenberg,Haas,3,2,7.0,Finished,6,4,101.189,103.55,Dry,Medium,No,24.0
+248,2024,20,Brazil,Interlagos Circuit,Sao Paulo,Fernando Alonso,Aston Martin,10,8,6.0,Finished,8,3,89.012,109.99,Dry,Medium,Yes,21.0
+249,2023,12,Netherlands,Circuit Zandvoort,Zandvoort,George Russell,Mercedes,3,3,1.0,Finished,25,4,118.0,103.78,Dry,Medium,No,9.0
+250,2024,1,Japan,Suzuka International Racing Course,Suzuka,Fernando Alonso,Aston Martin,9,7,10.0,Finished,1,4,94.818,122.59,Dry,Medium,Yes,31.0
+251,2024,7,Spain,Circuit de Barcelona-Catalunya,Barcelona,Lando Norris,McLaren,2,5,5.0,Finished,10,3,106.938,97.0,Dry,Medium,No,1.0
+252,2025,20,Bahrain,Bahrain International Circuit,Sakhir,Fernando Alonso,Aston Martin,13,13,15.0,Finished,0,3,87.444,76.16,Dry,Hard,No,2.0
+253,2024,13,Bahrain,Bahrain International Circuit,Sakhir,Charles Leclerc,Ferrari,7,7,3.0,Finished,15,2,75.97,80.76,,Medium,No,21.0
+254,2023,15,Canada,Circuit Gilles-Villeneuve,Montreal,Lewis Hamilton,Mercedes,5,6,8.0,Finished,4,2,95.208,99.79,Dry,Medium,No,29.0
+255,2023,11,GREAT BRITAIN ,Silverstone Circuit,Silverstone,Valtteri Bottas,Kick Sauber,1,1,,DNF,0,2,101.824,100.02,Rain,Hard,No,28.0
+256,2024,4,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Lewis Hamilton,Mercedes,18,15,15.0,Finished,0,3,97.977,99.06,Dry,Soft,Yes,23.0
+257,2025,21,Japan,Suzuka International Racing Course,Suzuka,Alexander Albon,Williams,17,18,12.0,Finished,0,2,123.101,115.03,Dry,Hard,Yes,13.0
+258,2022,18,Brazil,Interlagos Circuit,Sao Paulo,Daniel Ricciardo,RB,17,15,20.0,Finished,0,3,110.342,90.25,Dry,Medium,No,12.0
+259,2022,23,Miami,Miami International Autodrome,Miami,Valtteri Bottas,Kick Sauber,2,1,5.0,Finished,10,2,124.783,108.16,Mixed,Medium,Yes,14.0
+260,2024,20,Japan,Suzuka International Racing Course,Suzuka,Sergio Perez,Red Bull Racing,7,9,10.0,Finished,1,2,89.753,108.51,Dry,Hard,No,8.0
+261,2022,7,Singapore,Marina Bay Street Circuit,Singapore,Lando Norris,McLaren,20,20,20.0,Finished,0,2,114.453,96.45,Dry,Hard,Yes,14.0
+262,2025,6,United States,Circuit of The Americas,Austin,Zhou Guanyu,KICK SAUBER ,12,9,20.0,Finished,0,2,102.778,98.08,Dry,Hard,No,3.0
+263,2023,6,Netherlands,Circuit Zandvoort,Zandvoort,Kevin Magnussen,Haas,3,2,1.0,Finished,25,2,105.588,81.47,Dry,Medium,No,11.0
+264,2022,22,Australia,Albert Park Grand Prix Circuit,Melbourne,Yuki Tsunoda,RB,3,1,1.0,Finished,25,2,124.293,95.68,Dry,Medium,No,32.0
+265,2025,13,Australia,Albert Park Grand Prix Circuit,Melbourne,Lewis Hamilton,Mercedes,6,10,3.0,Finished,15,3,107.699,116.95,Dry,Hard,No,24.0
+266,2023,11,Spain,Circuit de Barcelona-Catalunya,Barcelona,Max Verstappen,Red Bull Racing,20,20,16.0,Finished,0,2,119.941,114.64,Dry,Medium,Yes,4.0
+267,2023,23,Great Britain,Silverstone Circuit,Silverstone,Carlos Sainz,Ferrari,4,3,1.0,Finished,25,1,111.288,104.51,Dry,Hard,Yes,10.0
+268,2023,14,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Lando Norris,McLaren,19,20,18.0,Finished,0,1,81.369,88.68,Dry,Medium,No,9.0
+269,2022,21,Monaco,Circuit de Monaco,Monte Carlo,Nico Hulkenberg,Haas,14,11,8.0,Finished,4,2,109.971,108.71,Rain,Hard,No,9.0
+270,2022,23,China,Shanghai International Circuit,Shanghai,Oscar Piastri,McLaren,19,18,20.0,Finished,0,2,99.216,110.5,Dry,Soft,No,24.0
+271,2022,2,Qatar,Lusail International Circuit,Lusail,George Russell,Mercedes,17,17,17.0,Finished,0,3,120.94,92.02,Mixed,Medium,No,31.0
+272,2023,9,Japan,Suzuka International Racing Course,Suzuka,Oliver Bearman,Haas,7,8,9.0,Finished,2,3,115.342,122.1,Rain,Soft,No,24.0
+273,2022,17,Bahrain,Bahrain International Circuit,Sakhir,Kevin Magnussen,Haas,17,17,20.0,Finished,0,2,80.207,77.71,Rain,Medium,Yes,17.0
+274,2024,19,Austria,Red Bull Ring,Spielberg,Oscar Piastri,McLaren,4,4,,DNF,0,2,81.696,76.41,Rain,Hard,No,5.0
+275,2024,4,Austria,Red Bull Ring,Spielberg,Fernando Alonso,Aston Martin,6,6,4.0,Finished,12,2,78.481,87.13,Dry,Medium,No,5.0
+276,2023,8,Italy,Autodromo Nazionale Monza,Monza,Esteban Ocon,Alpine,5,5,16.0,Finished,0,2,99.662,81.15,Dry,Medium,No,28.0
+277,2023,13,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Lance Stroll,Aston Martin,3,2,4.0,Finished,12,3,79.039,124.39,Dry,Hard,No,23.0
+278,2024,19,Qatar,Lusail International Circuit,Lusail,Zhou Guanyu,Kick Sauber,2,1,,DNS,0,2,111.184,96.27,Dry,Hard,No,17.0
+279,2025,3,Monaco,Circuit de Monaco,Monte Carlo,Nico Hulkenberg,Haas,4,4,1.0,Finished,25,3,102.618,94.09,Dry,Medium,No,20.0
+280,2025,14,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Oliver Bearman,Haas,3,4,1.0,Finished,25,2,116.794,98.7,Dry,Intermediate,No,29.0
+281,2022,7,Italy,Autodromo Nazionale Monza,Monza,Max Verstappen,Red Bull Racing,8,8,,DNS,0,2,88.99,95.66,Dry,Medium,Yes,28.0
+282,2023,5,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Oscar Piastri,McLaren,2,1,1.0,Finished,25,2,100.957,89.88,Mixed,Hard,No,3.0
+283,2023,12,Qatar,Lusail International Circuit,Lusail,Alexander Albon,Williams,2,1,,DNF,0,2,80.874,80.02,Rain,Soft,No,13.0
+284,2023,10,Japan,Suzuka International Racing Course,Suzuka,Max Verstappen,Red Bull Racing,20,20,20.0,Finished,0,4,119.231,108.02,Dry,Medium,No,1.0
+285,2024,15,Netherlands,Circuit Zandvoort,Zandvoort,Fernando Alonso,Aston Martin,2,5,5.0,Finished,10,2,83.75,84.52,Dry,Medium,Yes,13.0
+286,2024,8,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Lando Norris,McLaren,2,2,6.0,Finished,8,3,80.118,113.73,Dry,Soft,No,22.0
+287,2022,19,Miami,Miami International Autodrome,Miami,Zhou Guanyu,Kick Sauber,1,1,1.0,Finished,25,3,85.253,84.13,Mixed,Medium,No,7.0
+288,2023,2,Monaco,Circuit de Monaco,Monte Carlo,Lewis Hamilton,Mercedes,3,3,,DNF,0,2,115.312,110.82,Dry,Soft,Yes,5.0
+289,2024,20,Great Britain,Silverstone Circuit,Silverstone,Charles Leclerc,Ferrari,11,9,11.0,Finished,0,2,80.291,118.26,Dry,Hard,Yes,17.0
+290,2022,1,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Lando Norris,McLaren,17,20,,DNS,0,2,105.721,84.94,Dry,Soft,Yes,18.0
+291,2025,17,Miami,Miami International Autodrome,Miami,Charles Leclerc,Ferrari,15,15,6.0,Finished,8,2,112.309,77.34,Dry,Soft,No,24.0
+292,2022,8,Azerbaijan,Baku City Circuit,Baku,Alexander Albon,Williams,12,11,11.0,Finished,0,3,112.554,120.47,Rain,Intermediate,No,0.0
+293,2025,9,Great Britain,Silverstone Circuit,Silverstone,Fernando Alonso,Aston Martin,2,2,,DNF,0,2,84.503,99.29,Mixed,Hard,Yes,8.0
+294,2022,1,Australia,Albert Park Grand Prix Circuit,Melbourne,Zhou Guanyu,Kick Sauber,16,15,15.0,Finished,0,3,78.081,111.09,Dry,Intermediate,No,27.0
+295,2025,17,Singapore,Marina Bay Street Circuit,Singapore,George Russell,Mercedes,1,4,,DNF,0,2,97.44,79.6,Dry,Medium,No,23.0
+296,2025,4,Brazil,Interlagos Circuit,Sao Paulo,Esteban Ocon,Alpine,13,13,10.0,Finished,1,2,85.124,85.18,Dry,Soft,No,31.0
+297,2025,16,Netherlands,Circuit Zandvoort,Zandvoort,Lance Stroll,Aston Martin,9,9,8.0,Finished,4,3,109.964,99.48,Dry,Medium,No,28.0
+298,2025,17,China,Shanghai International Circuit,Shanghai,Yuki Tsunoda,RB,18,19,18.0,Finished,0,2,92.835,116.52,Mixed,Medium,No,29.0
+299,2025,20,Japan,Suzuka International Racing Course,Suzuka,Daniel Ricciardo,RB,7,6,10.0,Finished,1,3,97.468,87.77,Rain,Soft,No,17.0
+300,2024,17,Austria,Red Bull Ring,Spielberg,Oscar Piastri,McLaren,13,13,18.0,Finished,0,2,80.674,118.57,Dry,Hard,Yes,33.0
+301,2025,7,Hungary,Hungaroring,Budapest,Esteban Ocon,Alpine,9,10,8.0,Finished,4,4,103.378,103.84,Dry,Hard,No,14.0
+302,2022,17,Belgium,Circuit de Spa-Francorchamps,Stavelot,Kevin Magnussen,Haas,11,8,9.0,Finished,2,3,84.276,75.91,Dry,Hard,No,31.0
+303,2024,19,Miami,Miami International Autodrome,Miami,Nico Hulkenberg,Haas,19,20,20.0,Finished,0,3,108.949,87.18,Dry,Medium,No,13.0
+304,2024,8,Hungary,Hungaroring,Budapest,Yuki Tsunoda,RB,15,15,,Retired,0,2,78.558,87.76,Dry,Hard,No,15.0
+305,2025,3,Monaco,Circuit de Monaco,Monte Carlo,Lance Stroll,ASTON MARTIN ,9,9,7.0,Finished,6,3,123.795,98.99,Rain,Medium,No,23.0
+306,2024,21,Azerbaijan,Baku City Circuit,Baku,Nico Hulkenberg,Haas,9,9,13.0,Finished,0,2,109.226,108.08,Dry,Wet,No,13.0
+307,2023,4,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Yuki Tsunoda,RB,15,16,,DNS,0,3,84.086,100.2,Dry,Medium,No,5.0
+308,2024,14,Azerbaijan,Baku City Circuit,Baku,Zhou Guanyu,Kick Sauber,7,10,13.0,Finished,0,2,75.705,81.94,Rain,Soft,No,31.0
+309,2023,6,Bahrain,Bahrain International Circuit,Sakhir,Charles Leclerc,Ferrari,4,2,13.0,Finished,0,2,91.723,113.36,Rain,Soft,Yes,15.0
+310,2022,3,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Carlos Sainz,Ferrari,10,9,6.0,Finished,8,2,82.641,103.29,Dry,Hard,Yes,32.0
+311,2024,18,Bahrain,Bahrain International Circuit,Sakhir,Charles Leclerc,Ferrari,2,3,2.0,Finished,18,2,85.921,103.16,Dry,Wet,Yes,13.0
+312,2024,4,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Lewis Hamilton,Mercedes,4,5,4.0,Finished,12,2,118.638,98.75,Dry,Intermediate,Yes,34.0
+313,2023,16,Bahrain,Bahrain International Circuit,Sakhir,Pierre Gasly,Alpine,9,10,9.0,Finished,2,3,105.16,86.11,Rain,Hard,No,21.0
+314,2023,16,Hungary,Hungaroring,Budapest,Oscar Piastri,McLaren,16,20,13.0,Finished,0,2,83.823,109.73,Dry,Wet,No,26.0
+315,2023,2,Australia,Albert Park Grand Prix Circuit,Melbourne,Sergio Perez,Red Bull Racing,16,17,9.0,Finished,2,3,102.833,97.84,Dry,Hard,No,26.0
+316,2023,4,Australia,Albert Park Grand Prix Circuit,Melbourne,Sergio Perez,Red Bull Racing,6,8,6.0,Finished,8,1,87.789,88.42,Dry,Medium,Yes,7.0
+317,2023,19,Azerbaijan,Baku City Circuit,Baku,Yuki Tsunoda,RB,9,8,5.0,Finished,10,3,123.81,82.58,Dry,Hard,No,28.0
+318,2024,12,Singapore,Marina Bay Street Circuit,Singapore,Zhou Guanyu,Kick Sauber,4,2,4.0,Finished,12,3,76.638,101.59,DRY ,Soft,No,33.0
+319,2023,3,Australia,Albert Park Grand Prix Circuit,Melbourne,Kevin Magnussen,Haas,16,15,12.0,Finished,0,2,111.616,106.65,Rain,Soft,No,23.0
+320,2025,23,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Fernando Alonso,Aston Martin,5,6,,Retired,0,3,113.65,94.35,Dry,Medium,No,33.0
+321,2025,7,Canada,Circuit Gilles-Villeneuve,Montreal,Carlos Sainz,Ferrari,16,17,17.0,Finished,0,3,78.358,121.85,Dry,Soft,No,29.0
+322,2024,1,Canada,Circuit Gilles-Villeneuve,Montreal,Daniel Ricciardo,RB,17,18,18.0,Finished,0,3,83.593,115.67,Mixed,Intermediate,Yes,23.0
+323,2023,22,Monaco,Circuit de Monaco,Monte Carlo,Charles Leclerc,FERRARI ,14,14,17.0,Finished,0,2,94.215,83.23,Dry,Wet,No,16.0
+324,2024,1,Great Britain,Silverstone Circuit,Silverstone,Esteban Ocon,Alpine,7,6,18.0,Finished,0,2,118.408,113.83,Dry,Medium,No,30.0
+325,2025,13,China,Shanghai International Circuit,Shanghai,Sergio Perez,Red Bull Racing,20,20,20.0,Finished,0,3,101.85,89.76,Dry,Hard,Yes,6.0
+326,2024,23,Austria,Red Bull Ring,Spielberg,Lando Norris,McLaren,14,15,16.0,Finished,0,2,107.765,126.82,Dry,Medium,No,19.0
+327,2025,14,China,Shanghai International Circuit,Shanghai,Yuki Tsunoda,RB,13,15,,DNS,0,3,114.151,89.13,Dry,Soft,No,28.0
+328,2024,14,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Carlos Sainz,Ferrari,18,16,12.0,Finished,0,2,116.406,88.25,Dry,Medium,No,33.0
+329,2024,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,Lando Norris,McLaren,18,20,20.0,Finished,0,3,98.814,93.47,DRY ,Soft,No,9.0
+330,2023,3,Azerbaijan,Baku City Circuit,Baku,Lance Stroll,Aston Martin,2,1,1.0,Finished,25,2,100.44,91.26,Dry,Medium,No,3.0
+331,2024,14,United States,Circuit of The Americas,Austin,Lando Norris,McLaren,18,19,13.0,Finished,0,1,110.9,106.0,Dry,Soft,No,11.0
+332,2023,21,Spain,Circuit de Barcelona-Catalunya,Barcelona,Lance Stroll,Aston Martin,16,16,16.0,Finished,0,4,88.167,98.51,Mixed,Soft,No,30.0
+333,2024,3,Canada,Circuit Gilles-Villeneuve,Montreal,Lando Norris,McLaren,5,8,5.0,Finished,10,3,117.724,85.92,Dry,Soft,No,18.0
+334,2025,21,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Sergio Perez,Red Bull Racing,7,6,2.0,Finished,18,3,76.039,102.47,Rain,Intermediate,No,1.0
+335,2022,10,Azerbaijan,Baku City Circuit,Baku,Kevin Magnussen,Haas,16,16,,DNF,0,4,84.789,117.56,Dry,Soft,Yes,4.0
+336,2024,13,Brazil,Interlagos Circuit,Sao Paulo,Oscar Piastri,McLaren,5,6,,Retired,0,2,115.01,112.57,Dry,Medium,No,11.0
+337,2022,4,Las Vegas,Las Vegas Strip Circuit,Las Vegas,,RB,10,8,6.0,Finished,8,2,92.013,100.24,Dry,Medium,No,11.0
+338,2024,15,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Valtteri Bottas,Kick Sauber,14,14,7.0,Finished,6,2,82.492,92.44,Dry,Medium,No,4.0
+339,2022,5,Qatar,Lusail International Circuit,Lusail,Zhou Guanyu,Kick Sauber,14,13,19.0,Finished,0,2,84.338,90.86,Dry,Medium,No,17.0
+340,2025,7,Austria,Red Bull Ring,Spielberg,Lando Norris,McLaren,19,18,,Retired,0,2,101.538,114.4,Rain,Soft,No,16.0
+341,2022,17,Austria,Red Bull Ring,Spielberg,Valtteri Bottas,Kick Sauber,3,2,1.0,Finished,25,3,117.309,111.45,Dry,Hard,No,6.0
+342,2025,2,Canada,Circuit Gilles-Villeneuve,Montreal,Zhou Guanyu,Kick Sauber,6,8,1.0,Finished,25,1,78.533,100.35,Dry,Medium,Yes,8.0
+343,2025,11,Miami,Miami International Autodrome,Miami,Daniel Ricciardo,RB,20,19,16.0,Finished,0,2,76.524,122.03,Dry,Hard,Yes,23.0
+344,2024,14,United States,Circuit of The Americas,Austin,Lando Norris,McLaren,12,13,12.0,Finished,0,2,98.258,78.27,Dry,Medium,No,33.0
+345,2025,4,Singapore,Marina Bay Street Circuit,Singapore,Kevin Magnussen,Haas,5,6,11.0,Finished,0,2,122.809,107.1,Dry,Medium,No,34.0
+346,2025,7,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Charles Leclerc,Ferrari,6,3,,Retired,0,2,88.95,84.07,Dry,Medium,Yes,19.0
+347,2025,8,Japan,Suzuka International Racing Course,Suzuka,Alexander Albon,Williams,7,8,7.0,Finished,6,2,122.959,80.8,Dry,Soft,Yes,1.0
+348,2023,16,Hungary,Hungaroring,Budapest,Pierre Gasly,Alpine,12,9,,DNF,0,2,119.384,99.25,Dry,Medium,Yes,31.0
+349,2024,23,Miami,Miami International Autodrome,Miami,Esteban Ocon,Alpine,6,7,1.0,Finished,25,2,89.157,95.82,Dry,Soft,No,33.0
+350,2022,20,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Esteban Ocon,Alpine,13,12,18.0,Finished,0,3,115.847,122.04,Dry,Medium,No,9.0
+351,2024,5,Monaco,Circuit de Monaco,Monte Carlo,Max Verstappen,Red Bull Racing,9,9,3.0,Finished,15,2,109.293,87.21,Dry,Hard,No,14.0
+352,2023,1,Japan,Suzuka International Racing Course,Suzuka,Esteban Ocon,Alpine,13,10,15.0,Finished,0,3,100.591,117.93,Dry,Soft,Yes,0.0
+353,2024,2,Netherlands,Circuit Zandvoort,Zandvoort,Zhou Guanyu,Kick Sauber,4,4,5.0,Finished,10,2,96.146,112.28,,Soft,Yes,28.0
+354,2024,14,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Sergio Perez,Red Bull Racing,13,15,18.0,Finished,0,2,115.775,111.88,Dry,Hard,Yes,27.0
+355,2024,4,Qatar,Lusail International Circuit,Lusail,,Mercedes,19,17,20.0,Finished,0,2,114.654,118.9,Rain,Medium,No,0.0
+356,2024,6,Australia,Albert Park Grand Prix Circuit,Melbourne,Oliver Bearman,Haas,3,2,1.0,Finished,25,4,112.847,90.59,Dry,Hard,Yes,24.0
+357,2025,20,Canada,Circuit Gilles-Villeneuve,Montreal,Lewis Hamilton,Mercedes,7,8,3.0,Finished,15,2,124.913,94.38,,Intermediate,No,14.0
+358,2025,21,Japan,Suzuka International Racing Course,Suzuka,Pierre Gasly,Alpine,14,15,15.0,Finished,0,2,98.926,86.94,Dry,Intermediate,No,19.0
+359,2024,20,Canada,Circuit Gilles-Villeneuve,Montreal,Esteban Ocon,ALPINE ,13,8,12.0,Finished,0,2,115.346,89.27,Dry,Medium,No,7.0
+360,2024,6,Belgium,Circuit de Spa-Francorchamps,Stavelot,Pierre Gasly,Alpine,14,18,,DNF,0,3,118.124,118.39,Dry,Medium,No,28.0
+361,2025,15,Monaco,Circuit de Monaco,Monte Carlo,Zhou Guanyu,Kick Sauber,12,13,16.0,Finished,0,3,85.58,96.11,Rain,Hard,Yes,14.0
+362,2022,15,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Sergio Perez,Red Bull Racing,14,15,17.0,Finished,0,2,77.103,97.34,Dry,Hard,Yes,29.0
+363,2022,5,Hungary,Hungaroring,Budapest,Oliver Bearman,Haas,13,13,12.0,Finished,0,3,95.237,82.72,Dry,Hard,No,5.0
+364,2022,13,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Lewis Hamilton,Mercedes,2,1,1.0,Finished,25,3,117.837,97.07,Dry,Medium,No,20.0
+365,2024,13,Miami,Miami International Autodrome,Miami,Valtteri Bottas,Kick Sauber,16,17,14.0,Finished,0,2,89.455,112.54,Dry,Soft,No,10.0
+366,2024,10,Bahrain,Bahrain International Circuit,Sakhir,Alexander Albon,Williams,9,8,,Retired,0,2,110.001,83.77,Rain,Soft,No,33.0
+367,2025,18,SAUDI ARABIA ,Jeddah Corniche Circuit,Jeddah,Oscar Piastri,McLaren,2,3,1.0,Finished,25,2,75.367,116.71,,Soft,No,19.0
+368,2024,16,Great Britain,Silverstone Circuit,Silverstone,Oscar Piastri,McLaren,9,9,12.0,Finished,0,4,92.768,108.36,Dry,Soft,No,25.0
+369,2023,13,Brazil,Interlagos Circuit,Sao Paulo,Valtteri Bottas,Kick Sauber,9,9,14.0,Finished,0,2,105.776,117.08,,Intermediate,No,3.0
+370,2025,17,United States,Circuit of The Americas,Austin,Yuki Tsunoda,RB,2,1,3.0,Finished,15,2,81.488,89.22,Mixed,Soft,Yes,23.0
+371,2025,18,Australia,Albert Park Grand Prix Circuit,Melbourne,Yuki Tsunoda,RB,20,20,5.0,Finished,10,2,119.83,106.07,Dry,Hard,Yes,3.0
+372,2023,14,Bahrain,Bahrain International Circuit,Sakhir,Lewis Hamilton,Mercedes,5,3,1.0,Finished,25,1,82.814,79.5,Dry,Intermediate,Yes,12.0
+373,2023,7,Canada,Circuit Gilles-Villeneuve,Montreal,Alexander Albon,Williams,7,11,16.0,Finished,0,3,120.49,92.77,Rain,Medium,No,7.0
+374,2023,18,Azerbaijan,Baku City Circuit,Baku,Oliver Bearman,Haas,9,13,6.0,Finished,8,2,85.819,108.29,Dry,Medium,No,0.0
+375,2023,17,United States,Circuit of The Americas,Austin,Max Verstappen,Red Bull Racing,17,20,7.0,Finished,6,3,124.714,108.04,Dry,Hard,No,20.0
+376,2022,23,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Pierre Gasly,Alpine,15,18,20.0,Finished,0,2,105.237,86.81,Dry,Medium,Yes,8.0
+377,2025,4,Canada,Circuit Gilles-Villeneuve,Montreal,Pierre Gasly,Alpine,16,16,16.0,Finished,0,2,79.217,122.35,Mixed,Medium,No,17.0
+378,2024,10,Japan,Suzuka International Racing Course,Suzuka,Nico Hulkenberg,Haas,5,7,11.0,Finished,0,1,78.264,78.78,Mixed,Hard,No,26.0
+379,2023,22,Bahrain,Bahrain International Circuit,Sakhir,George Russell,Mercedes,17,17,18.0,Finished,0,3,78.746,107.53,Dry,Hard,No,6.0
+380,2024,12,Japan,Suzuka International Racing Course,Suzuka,Pierre Gasly,,17,14,19.0,Finished,0,2,104.495,123.3,Dry,Hard,No,24.0
+381,2024,22,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Valtteri Bottas,Kick Sauber,10,13,12.0,Finished,0,1,115.479,100.14,Dry,Wet,No,10.0
+382,2025,1,Brazil,Interlagos Circuit,Sao Paulo,Lewis Hamilton,Mercedes,11,13,14.0,Finished,0,3,95.148,116.45,Dry,Medium,No,11.0
+383,2025,1,Monaco,Circuit de Monaco,Monte Carlo,Kevin Magnussen,Haas,1,1,12.0,Finished,0,2,97.242,103.6,Mixed,Hard,No,20.0
+384,2024,19,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Kevin Magnussen,Haas,16,14,20.0,Finished,0,2,104.464,114.96,Dry,Hard,No,21.0
+385,2023,9,Belgium,Circuit de Spa-Francorchamps,Stavelot,Valtteri Bottas,Kick Sauber,20,19,,DNF,0,2,101.652,104.6,Dry,Hard,Yes,22.0
+386,2025,12,Belgium,Circuit de Spa-Francorchamps,Stavelot,Yuki Tsunoda,RB,10,6,12.0,Finished,0,3,109.403,106.91,Rain,,No,6.0
+387,2024,10,Great Britain,Silverstone Circuit,Silverstone,Valtteri Bottas,Kick Sauber,11,13,17.0,Finished,0,2,98.589,88.3,Dry,,No,20.0
+388,2025,10,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Daniel Ricciardo,RB,10,7,16.0,Finished,0,2,110.693,114.75,Rain,Hard,No,9.0
+389,2022,22,Bahrain,Bahrain International Circuit,Sakhir,Zhou Guanyu,Kick Sauber,2,3,1.0,Finished,25,2,124.866,83.94,Dry,Medium,Yes,
+390,2025,3,Australia,Albert Park Grand Prix Circuit,Melbourne,Sergio Perez,Red Bull Racing,13,11,19.0,Finished,0,2,92.515,126.04,Rain,Hard,No,33.0
+391,2024,18,Austria,Red Bull Ring,Spielberg,Pierre Gasly,Alpine,15,12,20.0,Finished,0,2,75.611,84.79,Dry,Medium,No,3.0
+392,2022,21,Austria,Red Bull Ring,Spielberg,Yuki Tsunoda,RB,19,19,20.0,Finished,0,2,81.281,86.88,Dry,Hard,No,14.0
+393,2024,16,Belgium,Circuit de Spa-Francorchamps,Stavelot,Lando Norris,McLaren,19,18,15.0,Finished,0,2,102.676,122.18,Dry,Hard,No,15.0
+394,2024,10,Singapore,Marina Bay Street Circuit,Singapore,Nico Hulkenberg,Haas,10,12,7.0,Finished,6,2,92.213,89.57,Dry,Hard,No,8.0
+395,2022,4,Netherlands,Circuit Zandvoort,Zandvoort,Daniel Ricciardo,RB,20,17,18.0,Finished,0,3,121.999,95.43,Dry,Medium,Yes,27.0
+396,2024,16,Miami,Miami International Autodrome,Miami,Yuki Tsunoda,RB,11,9,9.0,Finished,2,1,106.372,116.46,Dry,Medium,No,17.0
+397,2025,11,Canada,Circuit Gilles-Villeneuve,Montreal,Carlos Sainz,Ferrari,13,8,9.0,Finished,2,2,101.018,80.83,Dry,Medium,Yes,25.0
+398,2023,4,United States,Circuit of The Americas,Austin,Carlos Sainz,Ferrari,13,9,,Retired,0,3,114.902,80.0,Rain,Soft,No,13.0
+399,2024,9,China,Shanghai International Circuit,Shanghai,Sergio Perez,Red Bull Racing,20,20,18.0,Finished,0,3,87.929,97.15,Dry,Medium,No,31.0
+400,2024,23,Hungary,Hungaroring,Budapest,Lance Stroll,Aston Martin,15,19,17.0,Finished,0,3,115.987,86.42,Dry,Intermediate,Yes,25.0
+401,2023,7,Belgium,Circuit de Spa-Francorchamps,Stavelot,Daniel Ricciardo,RB,3,3,1.0,Finished,25,2,75.153,79.72,Rain,Medium,Yes,11.0
+402,2025,5,United States,Circuit of The Americas,Austin,Lance Stroll,Aston Martin,2,1,12.0,Finished,0,2,105.984,74.84,Dry,Wet,No,33.0
+403,2025,16,Singapore,Marina Bay Street Circuit,Singapore,Zhou Guanyu,Kick Sauber,9,8,,DNF,0,2,121.738,91.89,Rain,Medium,Yes,30.0
+404,2022,5,Great Britain,Silverstone Circuit,Silverstone,Oliver Bearman,Haas,11,13,17.0,Finished,0,2,114.393,93.26,Dry,Hard,No,20.0
+405,2025,22,Canada,Circuit Gilles-Villeneuve,Montreal,Valtteri Bottas,Kick Sauber,14,13,15.0,Finished,0,2,117.682,77.62,Dry,Medium,Yes,0.0
+406,2025,20,Spain,Circuit de Barcelona-Catalunya,Barcelona,Fernando Alonso,Aston Martin,10,10,14.0,Finished,0,2,94.848,104.26,Dry,Hard,No,20.0
+407,2023,23,Austria,Red Bull Ring,Spielberg,Alexander Albon,Williams,11,11,12.0,Finished,0,2,116.212,108.1,Rain,Hard,No,24.0
+408,2025,21,Miami,Miami International Autodrome,Miami,Sergio Perez,Red Bull Racing,19,18,20.0,Finished,0,2,102.542,80.71,Dry,Hard,No,12.0
+409,2022,6,Italy,Autodromo Nazionale Monza,Monza,Yuki Tsunoda,RB,7,6,7.0,Finished,6,2,105.927,88.55,Dry,Intermediate,Yes,5.0
+410,2025,5,China,Shanghai International Circuit,Shanghai,Kevin Magnussen,Haas,10,11,12.0,Finished,0,2,77.946,117.16,Mixed,Medium,No,19.0
+411,2024,8,Italy,Autodromo Nazionale Monza,Monza,Fernando Alonso,Aston Martin,12,10,14.0,Finished,0,3,85.078,97.43,Dry,Soft,No,28.0
+412,2024,11,United States,Circuit of The Americas,Austin,Esteban Ocon,Alpine,10,11,9.0,Finished,2,3,102.548,92.33,Mixed,Medium,No,11.0
+413,2022,21,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Max Verstappen,Red Bull Racing,20,19,20.0,Finished,0,2,77.94,96.03,Rain,Hard,No,15.0
+414,2025,17,Australia,Albert Park Grand Prix Circuit,Melbourne,Valtteri Bottas,Kick Sauber,20,20,,Retired,0,2,112.072,85.64,Mixed,Medium,No,0.0
+415,2022,15,United States,Circuit of The Americas,Austin,Pierre Gasly,Alpine,11,14,10.0,Finished,1,2,117.003,112.76,MIXED ,Medium,No,24.0
+416,2023,21,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Pierre Gasly,Alpine,10,10,12.0,Finished,0,1,121.018,119.16,Mixed,Hard,No,30.0
+417,2022,15,Canada,Circuit Gilles-Villeneuve,Montreal,Esteban Ocon,Alpine,12,14,18.0,Finished,0,3,80.088,116.86,Dry,Medium,No,27.0
+418,2025,9,China,Shanghai International Circuit,Shanghai,Oscar Piastri,McLaren,4,1,10.0,Finished,1,2,121.986,86.71,Rain,Hard,No,15.0
+419,2023,10,Japan,Suzuka International Racing Course,Suzuka,Alexander Albon,Williams,9,8,9.0,Finished,2,2,78.381,91.81,Rain,Hard,No,1.0
+420,2025,12,China,Shanghai International Circuit,Shanghai,Valtteri Bottas,Kick Sauber,5,5,1.0,Finished,25,2,98.703,84.24,Dry,Hard,No,17.0
+421,2024,3,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Carlos Sainz,Ferrari,3,7,,DNS,0,2,117.013,90.4,Dry,Hard,No,32.0
+422,2022,18,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Charles Leclerc,FERRARI ,2,1,1.0,Finished,25,2,78.516,87.02,Mixed,Intermediate,No,2.0
+423,2022,16,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Fernando Alonso,Aston Martin,12,12,19.0,Finished,0,2,75.912,104.8,Dry,Hard,No,7.0
+424,2022,17,Austria,Red Bull Ring,Spielberg,Lando Norris,McLaren,1,4,2.0,Finished,18,4,76.247,83.26,,Intermediate,No,29.0
+425,2024,13,Singapore,Marina Bay Street Circuit,Singapore,Fernando Alonso,Aston Martin,13,11,18.0,Finished,0,2,100.564,119.76,Dry,Soft,No,19.0
+426,2025,19,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Yuki Tsunoda,RB,9,9,4.0,Finished,12,2,115.58,80.38,Dry,Hard,No,5.0
+427,2023,22,Brazil,Interlagos Circuit,Sao Paulo,Charles Leclerc,Ferrari,8,9,1.0,Finished,25,1,81.371,79.62,Rain,Hard,No,0.0
+428,2025,14,Japan,Suzuka International Racing Course,Suzuka,Valtteri Bottas,Kick Sauber,16,16,,DNF,0,2,81.231,120.18,Dry,Medium,No,14.0
+429,2022,11,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Oscar Piastri,McLaren,11,14,11.0,Finished,0,2,103.427,107.23,Rain,Medium,No,20.0
+430,2025,3,Azerbaijan,Baku City Circuit,Baku,Nico Hulkenberg,Haas,15,16,13.0,Finished,0,2,86.715,94.8,Mixed,Medium,Yes,29.0
+431,2025,18,China,Shanghai International Circuit,Shanghai,Valtteri Bottas,Kick Sauber,15,18,15.0,Finished,0,3,111.511,106.7,Dry,Medium,No,30.0
+432,2025,21,Great Britain,Silverstone Circuit,Silverstone,George Russell,Mercedes,1,1,,DNF,0,2,122.482,83.76,Rain,Intermediate,No,16.0
+433,2024,17,Qatar,Lusail International Circuit,Lusail,Alexander Albon,Williams,5,4,9.0,Finished,2,2,113.302,85.97,Dry,Medium,No,14.0
+434,2025,20,Austria,Red Bull Ring,Spielberg,Charles Leclerc,Ferrari,12,12,17.0,Finished,0,1,118.859,98.08,Mixed,Soft,No,32.0
+435,2022,20,China,Shanghai International Circuit,Shanghai,Lewis Hamilton,Mercedes,20,18,,Retired,0,1,100.979,88.43,Mixed,Medium,No,27.0
+436,2023,19,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Oliver Bearman,Haas,4,5,11.0,Finished,0,2,116.616,107.13,Dry,Medium,No,7.0
+437,2022,12,Qatar,Lusail International Circuit,Lusail,Kevin Magnussen,Haas,3,2,,Retired,0,3,84.145,86.56,Rain,Soft,No,23.0
+438,2024,3,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Lando Norris,McLaren,19,18,9.0,Finished,2,2,78.417,107.46,Dry,Medium,No,25.0
+439,2024,1,Qatar,Lusail International Circuit,Lusail,George Russell,Mercedes,20,20,19.0,Finished,0,2,107.798,113.23,Dry,Medium,No,8.0
+440,2024,5,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Lando Norris,McLaren,4,2,8.0,Finished,4,3,77.598,81.17,Rain,Soft,No,34.0
+441,2025,10,Great Britain,Silverstone Circuit,Silverstone,Fernando Alonso,Aston Martin,9,11,4.0,Finished,12,1,119.624,79.02,Dry,Hard,No,10.0
+442,2023,18,China,Shanghai International Circuit,Shanghai,George Russell,Mercedes,13,12,12.0,Finished,0,2,109.578,96.85,Dry,Medium,No,19.0
+443,2024,11,Italy,Autodromo Nazionale Monza,Monza,Carlos Sainz,Ferrari,4,6,1.0,Finished,25,2,122.61,114.2,Dry,Hard,No,17.0
+444,2023,1,Miami,Miami International Autodrome,Miami,Esteban Ocon,Alpine,7,6,15.0,Finished,0,3,90.694,108.61,Dry,,No,24.0
+445,2023,5,Great Britain,Silverstone Circuit,Silverstone,Lando Norris,McLaren,8,9,12.0,Finished,0,2,99.308,106.63,Mixed,Medium,Yes,31.0
+446,2024,23,Azerbaijan,Baku City Circuit,Baku,Nico Hulkenberg,Haas,13,13,16.0,Finished,0,3,112.085,92.46,Dry,Intermediate,Yes,13.0
+447,2025,23,Qatar,Lusail International Circuit,Lusail,Valtteri Bottas,Kick Sauber,7,8,10.0,Finished,1,3,87.139,80.12,Dry,Medium,No,13.0
+448,2024,9,Monaco,Circuit de Monaco,Monte Carlo,Daniel Ricciardo,RB,9,9,9.0,Finished,2,3,102.092,103.28,Dry,Soft,Yes,26.0
+449,2022,19,Miami,Miami International Autodrome,Miami,Lando Norris,McLaren,6,3,7.0,Finished,6,4,107.973,81.58,Mixed,Hard,No,33.0
+450,2024,17,Singapore,Marina Bay Street Circuit,Singapore,Valtteri Bottas,Kick Sauber,16,18,,Retired,0,3,123.94,111.71,Dry,Soft,No,31.0
+451,2022,22,Bahrain,Bahrain International Circuit,Sakhir,Kevin Magnussen,Haas,4,4,1.0,Finished,25,3,112.235,85.96,Dry,Hard,Yes,26.0
+452,2025,21,Netherlands,Circuit Zandvoort,Zandvoort,Lando Norris,McLaren,5,7,6.0,Finished,8,3,80.907,91.37,Dry,Hard,No,24.0
+453,2024,15,United States,Circuit of The Americas,Austin,Daniel Ricciardo,RB,5,6,7.0,Finished,6,3,98.767,96.72,Dry,Intermediate,No,26.0
+454,2023,10,Belgium,Circuit de Spa-Francorchamps,Stavelot,Fernando Alonso,Aston Martin,19,17,20.0,Finished,0,3,104.439,99.14,Mixed,Intermediate,No,32.0
+455,2022,15,Spain,Circuit de Barcelona-Catalunya,Barcelona,Daniel Ricciardo,RB,19,17,20.0,Finished,0,3,82.331,110.05,Dry,Medium,No,0.0
+456,2023,8,Brazil,Interlagos Circuit,Sao Paulo,Pierre Gasly,Alpine,11,12,19.0,Finished,0,2,96.598,102.02,Dry,Hard,No,20.0
+457,2025,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,Kevin Magnussen,Haas,4,3,1.0,Finished,25,2,89.2,123.94,Rain,Medium,Yes,1.0
+458,2024,15,Singapore,Marina Bay Street Circuit,Singapore,Charles Leclerc,Ferrari,16,18,,DNF,0,2,80.941,118.01,Dry,Hard,Yes,20.0
+459,2025,14,Great Britain,Silverstone Circuit,Silverstone,Fernando Alonso,Aston Martin,10,10,12.0,Finished,0,3,100.602,115.94,Dry,Hard,No,13.0
+460,2024,14,Bahrain,Bahrain International Circuit,Sakhir,George Russell,Mercedes,17,19,20.0,Finished,0,2,83.282,108.63,Dry,Soft,No,10.0
+461,2024,9,Belgium,Circuit de Spa-Francorchamps,Stavelot,Oscar Piastri,McLaren,8,9,,Retired,0,3,104.527,106.28,Dry,Soft,No,31.0
+462,2022,10,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Carlos Sainz,Ferrari,20,20,,Retired,0,3,83.485,107.14,Rain,Soft,No,24.0
+463,2025,1,Qatar,Lusail International Circuit,Lusail,Fernando Alonso,Aston Martin,17,16,15.0,Finished,0,4,111.18,94.85,Mixed,Soft,Yes,19.0
+464,2023,14,Netherlands,Circuit Zandvoort,Zandvoort,Charles Leclerc,Ferrari,5,5,1.0,Finished,25,2,84.762,90.59,Mixed,Medium,No,30.0
+465,2024,14,Spain,Circuit de Barcelona-Catalunya,Barcelona,Valtteri Bottas,Kick Sauber,15,17,19.0,Finished,0,3,119.814,105.09,Mixed,Intermediate,No,3.0
+466,2024,22,Hungary,Hungaroring,Budapest,Alexander Albon,Williams,6,6,1.0,Finished,25,3,76.31,77.02,Dry,Medium,No,22.0
+467,2024,12,Italy,Autodromo Nazionale Monza,Monza,Kevin Magnussen,Haas,7,8,6.0,Finished,8,3,101.1,76.85,Dry,Hard,No,5.0
+468,2025,11,Miami,Miami International Autodrome,Miami,Valtteri Bottas,Kick Sauber,6,6,5.0,Finished,10,3,91.005,115.84,Dry,Hard,Yes,8.0
+469,2022,2,Monaco,Circuit de Monaco,Monte Carlo,Charles Leclerc,,14,14,20.0,Finished,0,2,86.254,73.29,MIXED ,Hard,Yes,6.0
+470,2024,5,Austria,Red Bull Ring,Spielberg,Lewis Hamilton,Mercedes,6,9,4.0,Finished,12,2,98.58,106.11,Rain,Medium,No,19.0
+471,2024,8,Miami,Miami International Autodrome,Miami,Sergio Perez,Red Bull Racing,13,15,1.0,Finished,25,2,117.101,113.22,Dry,Hard,No,22.0
+472,2024,9,United States,Circuit of The Americas,Austin,Pierre Gasly,Alpine,12,12,15.0,Finished,0,4,120.764,86.25,Rain,Hard,No,26.0
+473,2022,9,Australia,Albert Park Grand Prix Circuit,Melbourne,Oscar Piastri,McLaren,16,16,13.0,Finished,0,2,90.162,115.81,Rain,Hard,No,15.0
+474,2022,10,Brazil,Interlagos Circuit,Sao Paulo,Daniel Ricciardo,RB,20,19,20.0,Finished,0,3,82.712,82.19,Mixed,Intermediate,Yes,32.0
+475,2023,18,Spain,Circuit de Barcelona-Catalunya,Barcelona,Alexander Albon,Williams,1,1,1.0,Finished,25,3,111.007,120.75,Rain,Hard,No,13.0
+476,2023,4,Belgium,Circuit de Spa-Francorchamps,Stavelot,Valtteri Bottas,,20,20,,Retired,0,2,104.1,117.17,Dry,Medium,Yes,
+477,2024,8,Japan,Suzuka International Racing Course,Suzuka,,Ferrari,3,5,,Retired,0,2,85.051,83.4,Dry,Intermediate,Yes,1.0
+478,2024,4,Spain,Circuit de Barcelona-Catalunya,Barcelona,Kevin Magnussen,Haas,11,12,,Retired,0,2,113.015,82.16,Dry,Medium,No,4.0
+479,2024,8,United States,Circuit of The Americas,Austin,Oscar Piastri,McLaren,7,5,,Retired,0,3,100.947,91.4,Dry,Hard,No,15.0
+480,2024,16,Monaco,Circuit de Monaco,Monte Carlo,Sergio Perez,Red Bull Racing,13,15,,DNF,0,2,107.67,97.49,Mixed,Soft,No,14.0
+481,2024,2,Japan,Suzuka International Racing Course,Suzuka,Sergio Perez,Red Bull Racing,15,15,12.0,Finished,0,2,92.967,86.26,Dry,Soft,Yes,29.0
+482,2023,8,Belgium,Circuit de Spa-Francorchamps,Stavelot,Kevin Magnussen,Haas,18,16,10.0,Finished,1,3,96.955,120.25,Dry,Medium,No,4.0
+483,2024,1,Japan,Suzuka International Racing Course,Suzuka,George Russell,Mercedes,9,12,12.0,Finished,0,2,84.017,88.35,Dry,Soft,No,9.0
+484,2023,22,Canada,Circuit Gilles-Villeneuve,Montreal,Oscar Piastri,McLaren,19,20,20.0,Finished,0,3,112.826,119.91,Dry,Wet,No,34.0
+485,2022,17,Great Britain,Silverstone Circuit,Silverstone,Carlos Sainz,Ferrari,7,8,7.0,Finished,6,2,82.851,82.71,Dry,Soft,No,0.0
+486,2024,6,Belgium,Circuit de Spa-Francorchamps,Stavelot,Fernando Alonso,Aston Martin,5,6,1.0,Finished,25,2,113.915,125.23,Dry,Hard,No,14.0
+487,2024,5,Italy,Autodromo Nazionale Monza,Monza,Lando Norris,McLaren,8,10,,DNF,0,2,114.9,84.85,Mixed,Medium,Yes,6.0
+488,2023,3,Azerbaijan,Baku City Circuit,Baku,Lando Norris,McLaren,11,14,3.0,Finished,15,2,112.33,93.55,Dry,Intermediate,No,18.0
+489,2024,11,Brazil,Interlagos Circuit,Sao Paulo,Oscar Piastri,McLaren,14,15,,DNF,0,2,75.971,106.01,Dry,Medium,No,34.0
+490,2024,18,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Pierre Gasly,Alpine,17,14,13.0,Finished,0,3,88.657,82.18,Dry,Soft,No,7.0
+491,2024,14,Spain,Circuit de Barcelona-Catalunya,Barcelona,Carlos Sainz,Ferrari,5,9,1.0,Finished,25,2,98.417,117.31,Dry,Soft,No,12.0
+492,2024,21,Bahrain,Bahrain International Circuit,Sakhir,Fernando Alonso,Aston Martin,7,9,5.0,Finished,10,2,104.777,93.24,Rain,Medium,No,15.0
+493,2024,8,Bahrain,Bahrain International Circuit,Sakhir,Valtteri Bottas,Kick Sauber,19,18,18.0,Finished,0,2,120.961,99.3,Mixed,Wet,No,27.0
+494,2023,7,China,Shanghai International Circuit,Shanghai,Oscar Piastri,McLaren,9,7,6.0,Finished,8,2,93.78,100.83,Dry,Wet,Yes,34.0
+495,2025,11,Netherlands,Circuit Zandvoort,Zandvoort,Zhou Guanyu,Kick Sauber,5,6,8.0,Finished,4,3,118.751,105.61,Mixed,Medium,No,3.0
+496,2024,5,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Daniel Ricciardo,RB,20,19,,DNF,0,2,83.171,76.08,Rain,Medium,No,17.0
+497,2024,23,United States,Circuit of The Americas,Austin,Lando Norris,McLaren,9,10,14.0,Finished,0,4,93.564,85.78,Dry,Soft,No,26.0
+498,2024,5,Italy,Autodromo Nazionale Monza,Monza,Carlos Sainz,FERRARI ,20,20,20.0,Finished,0,2,77.614,82.5,Dry,Medium,No,0.0
+499,2023,12,United States,Circuit of The Americas,Austin,Lando Norris,McLaren,19,18,16.0,Finished,0,2,112.124,87.12,Dry,Hard,Yes,28.0
+500,2024,13,Japan,Suzuka International Racing Course,Suzuka,George Russell,Mercedes,19,17,15.0,Finished,0,2,82.533,82.44,Mixed,Medium,No,8.0
+501,2024,2,Brazil,Interlagos Circuit,Sao Paulo,Fernando Alonso,Aston Martin,12,13,4.0,Finished,12,1,87.851,121.61,Dry,Hard,No,18.0
+502,2025,11,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Charles Leclerc,Ferrari,16,15,17.0,Finished,0,3,113.762,103.45,Dry,Intermediate,No,34.0
+503,2025,11,Australia,Albert Park Grand Prix Circuit,Melbourne,Max Verstappen,Red Bull Racing,20,20,18.0,Finished,0,2,101.736,107.36,Rain,Soft,No,22.0
+504,2024,6,Great Britain,Silverstone Circuit,Silverstone,,Red Bull Racing,6,3,1.0,Finished,25,2,75.699,94.26,Mixed,,No,34.0
+505,2024,3,Brazil,Interlagos Circuit,Sao Paulo,Valtteri Bottas,Kick Sauber,1,1,1.0,Finished,25,3,75.112,89.77,Dry,Soft,No,21.0
+506,2025,2,Great Britain,Silverstone Circuit,Silverstone,Carlos Sainz,Ferrari,7,8,2.0,Finished,18,2,100.533,99.59,Rain,Soft,No,7.0
+507,2023,1,Brazil,Interlagos Circuit,Sao Paulo,Nico Hulkenberg,Haas,13,14,20.0,Finished,0,3,90.248,87.57,Dry,Soft,Yes,24.0
+508,2025,12,Qatar,Lusail International Circuit,Lusail,Fernando Alonso,Aston Martin,11,9,2.0,Finished,18,4,84.016,93.05,Mixed,Hard,No,21.0
+509,2024,3,Great Britain,Silverstone Circuit,Silverstone,Zhou Guanyu,Kick Sauber,2,1,1.0,Finished,25,3,105.68,96.64,Dry,Soft,No,10.0
+510,2022,23,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Oscar Piastri,MCLAREN ,12,12,18.0,Finished,0,3,86.422,105.36,Dry,Hard,No,2.0
+511,2022,6,Canada,Circuit Gilles-Villeneuve,Montreal,Esteban Ocon,Alpine,4,5,11.0,Finished,0,3,104.61,128.24,Mixed,Hard,No,22.0
+512,2025,16,China,Shanghai International Circuit,Shanghai,Daniel Ricciardo,RB,11,12,7.0,Finished,6,2,93.963,88.06,Dry,Intermediate,No,20.0
+513,2022,16,Great Britain,Silverstone Circuit,Silverstone,,Mercedes,12,11,9.0,Finished,2,3,84.337,100.53,Dry,Hard,Yes,27.0
+514,2023,12,Netherlands,Circuit Zandvoort,Zandvoort,Zhou Guanyu,Kick Sauber,13,14,16.0,Finished,0,1,81.905,82.21,Dry,Soft,No,4.0
+515,2023,21,Great Britain,Silverstone Circuit,Silverstone,Fernando Alonso,Aston Martin,9,12,1.0,Finished,25,3,86.843,88.72,DRY ,Soft,No,18.0
+516,2023,3,China,Shanghai International Circuit,Shanghai,Pierre Gasly,Alpine,9,9,,DNF,0,4,76.492,110.22,Dry,Soft,Yes,28.0
+517,2023,6,Monaco,Circuit de Monaco,Monte Carlo,Yuki Tsunoda,RB,14,11,13.0,Finished,0,2,90.406,84.03,Dry,Intermediate,Yes,31.0
+518,2024,6,Azerbaijan,Baku City Circuit,Baku,Yuki Tsunoda,RB,15,15,,Retired,0,3,120.098,104.76,Rain,Intermediate,No,32.0
+519,2022,4,BAHRAIN ,Bahrain International Circuit,Sakhir,Max Verstappen,Red Bull Racing,17,20,15.0,Finished,0,3,116.568,97.24,Rain,Medium,No,7.0
+520,2025,7,China,Shanghai International Circuit,Shanghai,Nico Hulkenberg,Haas,7,4,8.0,Finished,4,2,93.6,80.34,Dry,Medium,No,6.0
+521,2025,8,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Yuki Tsunoda,RB,9,9,15.0,Finished,0,2,103.792,119.58,Dry,Medium,Yes,20.0
+522,2023,18,Australia,Albert Park Grand Prix Circuit,Melbourne,Oliver Bearman,Haas,7,7,18.0,Finished,0,3,103.368,93.63,Rain,Medium,No,16.0
+523,2023,7,Austria,Red Bull Ring,Spielberg,Pierre Gasly,Alpine,11,11,8.0,Finished,4,4,116.437,118.55,DRY ,Wet,Yes,8.0
+524,2024,21,China,Shanghai International Circuit,Shanghai,Yuki Tsunoda,RB,3,3,3.0,Finished,15,2,86.815,98.13,Dry,Soft,No,3.0
+525,2022,18,Australia,Albert Park Grand Prix Circuit,Melbourne,Sergio Perez,Red Bull Racing,9,11,18.0,Finished,0,2,89.819,120.7,Dry,Medium,No,5.0
+526,2023,21,Austria,Red Bull Ring,Spielberg,Nico Hulkenberg,Haas,4,4,1.0,Finished,25,3,90.089,89.2,Dry,Medium,No,11.0
+527,2025,3,Hungary,Hungaroring,Budapest,Kevin Magnussen,Haas,11,14,16.0,Finished,0,2,77.043,95.3,Dry,,No,25.0
+528,2025,23,China,Shanghai International Circuit,Shanghai,Zhou Guanyu,Kick Sauber,18,18,13.0,Finished,0,2,90.734,113.04,Rain,Medium,No,2.0
+529,2025,15,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Esteban Ocon,Alpine,20,19,,DNS,0,1,118.896,93.6,Mixed,Hard,Yes,3.0
+530,2023,23,Japan,Suzuka International Racing Course,Suzuka,Daniel Ricciardo,RB,9,8,8.0,Finished,4,2,120.599,100.82,Dry,Soft,No,9.0
+531,2024,9,Italy,Autodromo Nazionale Monza,Monza,Fernando Alonso,Aston Martin,2,1,1.0,Finished,25,2,80.482,125.31,Dry,Medium,No,30.0
+532,2024,22,Brazil,Interlagos Circuit,Sao Paulo,Pierre Gasly,Alpine,5,6,1.0,Finished,25,2,97.903,104.77,Dry,Medium,No,34.0
+533,2023,14,China,Shanghai International Circuit,Shanghai,Daniel Ricciardo,RB,3,7,4.0,Finished,12,2,94.067,104.41,Dry,Soft,No,15.0
+534,2024,2,Canada,Circuit Gilles-Villeneuve,Montreal,Lewis Hamilton,Mercedes,16,17,20.0,Finished,0,3,99.468,105.72,Rain,Soft,No,1.0
+535,2022,10,Canada,Circuit Gilles-Villeneuve,Montreal,Valtteri Bottas,Kick Sauber,20,20,,Retired,0,2,102.736,120.08,Dry,Medium,No,0.0
+536,2023,4,Spain,Circuit de Barcelona-Catalunya,Barcelona,Max Verstappen,Red Bull Racing,12,11,12.0,Finished,0,2,76.013,119.3,Mixed,Soft,Yes,30.0
+537,2024,22,Miami,Miami International Autodrome,Miami,Alexander Albon,Williams,4,4,7.0,Finished,6,1,117.112,90.0,Dry,Medium,Yes,15.0
+538,2023,8,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Pierre Gasly,Alpine,1,3,1.0,Finished,25,2,123.683,91.75,Dry,Hard,Yes,2.0
+539,2023,6,Belgium,Circuit de Spa-Francorchamps,Stavelot,Pierre Gasly,Alpine,20,20,20.0,Finished,0,2,107.67,81.89,Dry,Hard,No,29.0
+540,2025,13,Spain,Circuit de Barcelona-Catalunya,Barcelona,Pierre Gasly,Alpine,7,10,11.0,Finished,0,2,108.023,99.73,Dry,Intermediate,No,18.0
+541,2025,10,Canada,Circuit Gilles-Villeneuve,Montreal,Pierre Gasly,Alpine,3,5,16.0,Finished,0,1,101.399,120.83,Mixed,Medium,No,12.0
+542,2024,3,Monaco,Circuit de Monaco,Monte Carlo,Sergio Perez,Red Bull Racing,4,4,2.0,Finished,18,2,91.714,89.21,Rain,Hard,No,15.0
+543,2025,19,Qatar,Lusail International Circuit,Lusail,Pierre Gasly,Alpine,6,6,4.0,Finished,12,3,82.449,86.05,Dry,Hard,Yes,7.0
+544,2025,20,Italy,Autodromo Nazionale Monza,Monza,Alexander Albon,Williams,14,12,18.0,Finished,0,2,104.203,89.38,Dry,Soft,No,32.0
+545,2022,18,Austria,Red Bull Ring,Spielberg,Daniel Ricciardo,RB,18,15,,Retired,0,3,77.247,93.45,Dry,Medium,Yes,27.0
+546,2024,15,China,Shanghai International Circuit,Shanghai,Alexander Albon,Williams,6,4,3.0,Finished,15,3,116.225,118.17,Rain,Medium,No,6.0
+547,2023,10,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Yuki Tsunoda,RB,14,14,,DNS,0,2,96.046,87.04,Dry,Hard,No,25.0
+548,2022,13,Las Vegas,Las Vegas Strip Circuit,Las Vegas,Kevin Magnussen,Haas,2,1,,DNF,0,2,95.738,106.7,Dry,Medium,No,6.0
+549,2025,12,Bahrain,Bahrain International Circuit,Sakhir,Oliver Bearman,Haas,1,1,1.0,Finished,25,2,91.359,114.42,,Soft,Yes,15.0
+550,2024,4,Qatar,Lusail International Circuit,Lusail,Charles Leclerc,Ferrari,2,2,1.0,Finished,25,1,123.468,120.57,Dry,Wet,Yes,26.0
+551,2024,2,Singapore,Marina Bay Street Circuit,Singapore,Valtteri Bottas,Kick Sauber,19,18,19.0,Finished,0,2,83.746,75.25,Dry,Soft,No,1.0
+552,2023,6,Australia,Albert Park Grand Prix Circuit,Melbourne,Oscar Piastri,McLaren,12,10,17.0,Finished,0,2,82.565,123.4,Dry,Intermediate,Yes,25.0
+553,2023,11,United States,Circuit of The Americas,Austin,Lando Norris,McLaren,17,16,14.0,Finished,0,2,83.277,110.32,Dry,Hard,No,7.0
+554,2025,4,Australia,Albert Park Grand Prix Circuit,Melbourne,Daniel Ricciardo,RB,1,1,1.0,Finished,25,2,107.926,116.72,Dry,Hard,No,24.0
+555,2022,3,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Lewis Hamilton,Mercedes,1,1,1.0,Finished,25,3,124.595,71.73,Dry,Hard,No,17.0
+556,2023,20,Australia,Albert Park Grand Prix Circuit,Melbourne,Kevin Magnussen,Haas,17,19,11.0,Finished,0,3,86.774,95.76,Mixed,Soft,Yes,0.0
+557,2023,9,Great Britain,Silverstone Circuit,Silverstone,,RB,3,1,,DNS,0,3,120.281,103.59,Dry,Hard,No,26.0
+558,2024,14,Italy,Autodromo Nazionale Monza,Monza,Oliver Bearman,Haas,4,1,3.0,Finished,15,2,88.931,85.56,Dry,Hard,No,9.0
+559,2024,13,Austria,Red Bull Ring,Spielberg,Lance Stroll,Aston Martin,11,11,5.0,Finished,10,2,107.395,96.72,Dry,Hard,No,33.0
+560,2024,17,Australia,Albert Park Grand Prix Circuit,Melbourne,Nico Hulkenberg,Haas,13,13,,DNS,0,1,77.025,103.9,Dry,Medium,No,29.0
+561,2022,18,China,Shanghai International Circuit,Shanghai,Charles Leclerc,Ferrari,5,6,1.0,Finished,25,3,99.783,98.34,Mixed,Soft,Yes,6.0
+562,2023,7,Brazil,Interlagos Circuit,Sao Paulo,Nico Hulkenberg,Haas,9,8,7.0,Finished,6,2,107.728,79.42,Dry,Medium,No,21.0
+563,2025,20,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Lando Norris,McLaren,14,12,,Retired,0,2,101.816,98.78,Dry,Medium,No,12.0
+564,2024,9,United States,Circuit of The Americas,Austin,Carlos Sainz,Ferrari,9,9,12.0,Finished,0,2,86.892,84.05,Mixed,Medium,No,21.0
+565,2024,20,Australia,Albert Park Grand Prix Circuit,Melbourne,Charles Leclerc,Ferrari,8,7,8.0,Finished,4,3,116.425,120.32,Rain,Hard,No,19.0
+566,2024,10,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Sergio Perez,Red Bull Racing,2,5,1.0,Finished,25,2,123.507,117.98,Rain,Hard,No,10.0
+567,2025,3,Azerbaijan,Baku City Circuit,Baku,Valtteri Bottas,Kick Sauber,10,9,,DNF,0,2,97.96,88.99,Dry,Hard,No,22.0
+568,2022,18,Belgium,Circuit de Spa-Francorchamps,Stavelot,George Russell,,17,17,19.0,Finished,0,2,106.796,83.78,Dry,Medium,No,9.0
+569,2023,1,Japan,Suzuka International Racing Course,Suzuka,Kevin Magnussen,,13,18,16.0,Finished,0,2,114.521,86.48,Rain,Medium,No,31.0
+570,2024,18,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Yuki Tsunoda,RB,18,18,13.0,Finished,0,2,87.074,100.02,Dry,Medium,No,33.0
+571,2023,1,GREAT BRITAIN ,Silverstone Circuit,Silverstone,Yuki Tsunoda,RB,3,4,3.0,Finished,15,2,118.223,119.46,Rain,Soft,No,5.0
+572,2025,5,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Zhou Guanyu,Kick Sauber,1,2,1.0,Finished,25,2,89.01,99.21,Rain,Soft,No,25.0
+573,2024,14,China,Shanghai International Circuit,Shanghai,Sergio Perez,RED BULL RACING ,11,12,12.0,Finished,0,3,113.792,78.63,Dry,Medium,No,32.0
+574,2025,22,Austria,Red Bull Ring,Spielberg,Carlos Sainz,Ferrari,4,5,,Retired,0,1,80.605,80.0,Dry,Medium,Yes,4.0
+575,2025,10,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Oliver Bearman,Haas,12,12,11.0,Finished,0,3,89.419,86.08,Dry,Medium,No,25.0
+576,2024,3,Canada,Circuit Gilles-Villeneuve,Montreal,Alexander Albon,Williams,19,19,20.0,Finished,0,2,101.681,118.09,Dry,Soft,No,32.0
+577,2025,6,Great Britain,Silverstone Circuit,Silverstone,Yuki Tsunoda,RB,7,6,3.0,Finished,15,3,101.246,105.52,Dry,,No,7.0
+578,2024,21,Qatar,Lusail International Circuit,Lusail,George Russell,Mercedes,11,12,12.0,Finished,0,2,117.522,101.21,Rain,Soft,No,20.0
+579,2025,17,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Oscar Piastri,McLaren,14,18,14.0,Finished,0,2,124.806,92.52,Dry,Hard,Yes,27.0
+580,2023,3,Netherlands,Circuit Zandvoort,Zandvoort,Lando Norris,McLaren,4,6,3.0,Finished,15,2,80.361,119.81,Rain,Medium,Yes,11.0
+581,2024,9,Qatar,Lusail International Circuit,Lusail,Oscar Piastri,McLaren,18,19,17.0,Finished,0,4,88.569,92.72,Dry,Medium,No,8.0
+582,2024,7,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Lando Norris,McLaren,5,7,6.0,Finished,8,2,92.88,116.83,Rain,Soft,No,13.0
+583,2022,5,Qatar,Lusail International Circuit,Lusail,Valtteri Bottas,Kick Sauber,17,15,20.0,Finished,0,3,98.946,118.88,Dry,Intermediate,No,11.0
+584,2023,20,Japan,Suzuka International Racing Course,Suzuka,Lewis Hamilton,Mercedes,14,13,20.0,Finished,0,3,99.695,98.18,Rain,Medium,No,25.0
+585,2025,15,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Yuki Tsunoda,RB,3,5,3.0,Finished,15,2,117.81,118.19,Rain,Hard,Yes,12.0
+586,2024,5,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Zhou Guanyu,Kick Sauber,15,18,,DNF,0,2,113.528,83.9,Dry,Medium,No,13.0
+587,2023,15,Canada,Circuit Gilles-Villeneuve,Montreal,Daniel Ricciardo,RB,4,2,1.0,Finished,25,2,75.943,109.07,Dry,Hard,No,33.0
+588,2023,10,Hungary,Hungaroring,Budapest,Sergio Perez,Red Bull Racing,12,11,,DNF,0,2,97.751,80.09,Mixed,Intermediate,Yes,20.0
+589,2023,2,Belgium,Circuit de Spa-Francorchamps,Stavelot,Lewis Hamilton,Mercedes,20,20,,Retired,0,2,105.904,101.25,Dry,Medium,No,32.0
+590,2022,11,Hungary,Hungaroring,Budapest,Kevin Magnussen,Haas,20,20,20.0,Finished,0,2,98.02,84.27,Rain,Hard,No,24.0
+591,2025,5,Monaco,Circuit de Monaco,Monte Carlo,Max Verstappen,Red Bull Racing,18,20,,DNF,0,2,81.532,83.82,Mixed,Soft,No,30.0
+592,2024,6,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Lance Stroll,Aston Martin,10,10,9.0,Finished,2,2,94.874,74.05,Mixed,Hard,No,6.0
+593,2023,21,Qatar,Lusail International Circuit,Lusail,Lance Stroll,Aston Martin,12,12,1.0,Finished,25,3,95.583,88.61,Dry,Medium,Yes,32.0
+594,2024,17,Spain,Circuit de Barcelona-Catalunya,Barcelona,Lando Norris,McLaren,7,6,4.0,Finished,12,2,84.386,101.5,Dry,Soft,Yes,33.0
+595,2022,4,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Valtteri Bottas,Kick Sauber,19,20,20.0,Finished,0,3,112.815,92.56,Mixed,Intermediate,Yes,1.0
+596,2023,20,Austria,Red Bull Ring,Spielberg,Lando Norris,McLaren,10,13,13.0,Finished,0,2,91.07,94.69,Dry,Hard,No,12.0
+597,2024,14,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Oscar Piastri,McLaren,16,14,17.0,Finished,0,2,104.449,128.67,Dry,Medium,No,14.0
+598,2024,21,Netherlands,Circuit Zandvoort,Zandvoort,Kevin Magnussen,Haas,8,7,13.0,Finished,0,1,100.787,123.78,Dry,Wet,No,14.0
+599,2025,18,Great Britain,Silverstone Circuit,Silverstone,Oliver Bearman,Haas,15,17,17.0,Finished,0,3,118.871,78.59,Rain,Medium,Yes,27.0
+600,2024,8,Australia,Albert Park Grand Prix Circuit,Melbourne,George Russell,Mercedes,5,5,11.0,Finished,0,2,81.101,101.19,Dry,Medium,No,24.0
+601,2024,13,Azerbaijan,Baku City Circuit,Baku,Zhou Guanyu,Kick Sauber,15,14,20.0,Finished,0,4,80.713,106.39,Dry,Hard,Yes,7.0
+602,2025,13,Canada,Circuit Gilles-Villeneuve,Montreal,Zhou Guanyu,Kick Sauber,1,3,9.0,Finished,2,2,90.016,110.87,Dry,Medium,No,21.0
+603,2025,17,China,Shanghai International Circuit,Shanghai,Daniel Ricciardo,RB,3,5,5.0,Finished,10,2,96.561,97.63,Rain,Medium,No,34.0
+604,2024,6,China,Shanghai International Circuit,Shanghai,Charles Leclerc,Ferrari,8,7,13.0,Finished,0,2,89.927,114.29,Dry,Hard,No,15.0
+605,2025,8,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,George Russell,Mercedes,10,10,8.0,Finished,4,2,113.159,87.81,Mixed,Soft,No,32.0
+606,2025,6,Australia,Albert Park Grand Prix Circuit,Melbourne,Lance Stroll,Aston Martin,15,13,12.0,Finished,0,2,87.263,92.34,Rain,Medium,Yes,22.0
+607,2025,7,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Oliver Bearman,Haas,8,6,17.0,Finished,0,2,79.239,109.63,Mixed,Medium,No,32.0
+608,2022,4,Brazil,Interlagos Circuit,Sao Paulo,Kevin Magnussen,Haas,1,1,2.0,Finished,18,2,95.69,104.45,Mixed,Hard,No,31.0
+609,2024,1,Bahrain,Bahrain International Circuit,Sakhir,Sergio Perez,Red Bull Racing,7,7,11.0,Finished,0,2,113.669,111.32,Dry,Soft,No,0.0
+610,2024,22,Netherlands,Circuit Zandvoort,Zandvoort,Oscar Piastri,McLaren,9,7,10.0,Finished,1,2,117.528,76.51,Dry,Soft,No,28.0
+611,2024,2,Netherlands,Circuit Zandvoort,Zandvoort,Oliver Bearman,Haas,11,10,8.0,Finished,4,4,111.667,87.15,DRY ,Hard,No,6.0
+612,2024,21,Spain,Circuit de Barcelona-Catalunya,Barcelona,George Russell,Mercedes,13,11,13.0,Finished,0,2,102.894,79.22,Mixed,Soft,Yes,28.0
+613,2025,1,Azerbaijan,Baku City Circuit,Baku,Carlos Sainz,Ferrari,5,6,12.0,Finished,0,1,111.21,84.67,Dry,Medium,No,28.0
+614,2025,18,Austria,Red Bull Ring,Spielberg,Oliver Bearman,Haas,13,9,16.0,Finished,0,4,109.069,72.23,Dry,Hard,No,9.0
+615,2023,8,Great Britain,Silverstone Circuit,Silverstone,Alexander Albon,Williams,13,11,4.0,Finished,12,1,86.718,100.89,Mixed,Hard,Yes,2.0
+616,2024,12,Austria,Red Bull Ring,Spielberg,George Russell,Mercedes,16,12,15.0,Finished,0,2,102.538,104.45,Dry,Soft,No,14.0
+617,2024,7,Mexico,Autodromo Hermanos Rodriguez,Mexico City,Max Verstappen,Red Bull Racing,11,12,20.0,Finished,0,3,113.53,109.19,Mixed,Hard,No,10.0
+618,2023,12,Italy,Autodromo Nazionale Monza,Monza,Sergio Perez,Red Bull Racing,17,13,16.0,Finished,0,3,90.856,94.75,Dry,Hard,No,19.0
+619,2022,11,Spain,Circuit de Barcelona-Catalunya,Barcelona,Oliver Bearman,Haas,5,5,1.0,Finished,25,3,107.699,72.77,Dry,Medium,Yes,2.0
+620,2022,13,Qatar,Lusail International Circuit,Lusail,Sergio Perez,Red Bull Racing,15,18,20.0,Finished,0,2,99.074,111.3,Dry,Hard,No,1.0
+621,2025,10,MEXICO ,Autodromo Hermanos Rodriguez,Mexico City,Lance Stroll,Aston Martin,1,4,4.0,Finished,12,4,100.158,68.32,Dry,Hard,No,15.0
+622,2024,13,Qatar,Lusail International Circuit,Lusail,George Russell,Mercedes,3,1,3.0,Finished,15,1,79.503,119.46,Dry,Hard,Yes,26.0
+623,2025,19,Singapore,Marina Bay Street Circuit,Singapore,Daniel Ricciardo,RB,18,19,,DNF,0,4,108.311,83.84,Mixed,Medium,Yes,11.0
+624,2024,10,Austria,Red Bull Ring,Spielberg,Daniel Ricciardo,RB,10,8,15.0,Finished,0,3,118.284,97.0,Dry,Hard,No,11.0
+625,2025,9,United States,Circuit of The Americas,Austin,Yuki Tsunoda,RB,13,11,10.0,Finished,1,3,82.072,119.02,Dry,Wet,No,5.0
+626,2024,4,Canada,Circuit Gilles-Villeneuve,Montreal,Daniel Ricciardo,RB,13,13,19.0,Finished,0,2,93.305,103.6,Mixed,Medium,No,9.0
+627,2025,9,MONACO ,Circuit de Monaco,Monte Carlo,Alexander Albon,Williams,14,16,,Retired,0,2,77.433,104.03,Rain,Hard,Yes,10.0
+628,2022,3,Great Britain,Silverstone Circuit,Silverstone,Fernando Alonso,Aston Martin,5,6,6.0,Finished,8,3,76.482,112.19,Dry,Hard,No,9.0
+629,2024,5,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Valtteri Bottas,Kick Sauber,4,3,,Retired,0,2,124.483,82.54,Mixed,Hard,No,12.0
+630,2025,22,Netherlands,Circuit Zandvoort,Zandvoort,Kevin Magnussen,Haas,1,2,1.0,Finished,25,2,99.674,109.2,Dry,Intermediate,No,9.0
+631,2025,3,Spain,Circuit de Barcelona-Catalunya,Barcelona,Kevin Magnussen,Haas,18,14,20.0,Finished,0,3,92.776,121.41,Dry,Soft,No,23.0
+632,2025,12,Great Britain,Silverstone Circuit,Silverstone,Oscar Piastri,McLaren,5,3,1.0,Finished,25,2,88.744,123.76,Dry,Soft,Yes,11.0
+633,2022,20,Monaco,Circuit de Monaco,Monte Carlo,Lance Stroll,Aston Martin,12,10,4.0,Finished,12,2,124.001,106.69,Rain,Medium,Yes,26.0
+634,2023,22,Azerbaijan,Baku City Circuit,Baku,Max Verstappen,Red Bull Racing,10,10,13.0,Finished,0,2,87.613,92.68,Dry,Medium,No,21.0
+635,2022,4,Spain,Circuit de Barcelona-Catalunya,Barcelona,Alexander Albon,Williams,4,4,,Retired,0,2,111.285,113.25,Dry,Medium,No,22.0
+636,2022,4,Belgium,Circuit de Spa-Francorchamps,Stavelot,Alexander Albon,Williams,9,9,11.0,Finished,0,2,89.188,97.01,Rain,Hard,Yes,20.0
+637,2024,9,SPAIN ,Circuit de Barcelona-Catalunya,Barcelona,Fernando Alonso,Aston Martin,2,2,,DNF,0,2,78.524,86.23,Dry,Intermediate,No,32.0
+638,2024,13,Canada,Circuit Gilles-Villeneuve,Montreal,Oliver Bearman,Haas,4,4,2.0,Finished,18,3,109.164,87.05,Dry,Medium,No,8.0
+639,2025,23,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Nico Hulkenberg,Haas,3,4,7.0,Finished,6,3,75.082,79.51,Rain,Hard,No,34.0
+640,2025,5,Canada,Circuit Gilles-Villeneuve,Montreal,Max Verstappen,Red Bull Racing,17,17,17.0,Finished,0,2,108.787,91.49,Dry,Soft,No,7.0
+641,2024,4,Saudi Arabia,Jeddah Corniche Circuit,Jeddah,Oscar Piastri,,12,11,10.0,Finished,1,2,87.519,83.6,Dry,Medium,No,4.0
+642,2025,6,Spain,Circuit de Barcelona-Catalunya,Barcelona,Oscar Piastri,McLaren,19,20,17.0,Finished,0,3,112.305,80.1,Dry,Soft,No,28.0
+643,2022,21,Belgium,Circuit de Spa-Francorchamps,Stavelot,Nico Hulkenberg,Haas,9,11,19.0,Finished,0,3,113.488,77.73,Mixed,Medium,No,31.0
+644,2023,1,Australia,Albert Park Grand Prix Circuit,Melbourne,Esteban Ocon,Alpine,5,4,1.0,Finished,25,3,111.205,120.49,Dry,Medium,No,3.0
+645,2024,9,Canada,Circuit Gilles-Villeneuve,Montreal,Valtteri Bottas,Kick Sauber,13,13,15.0,Finished,0,2,76.224,73.07,Dry,Hard,No,20.0
+646,2025,3,Japan,Suzuka International Racing Course,Suzuka,Kevin Magnussen,Haas,19,20,11.0,Finished,0,3,110.187,80.02,Dry,Hard,Yes,17.0
+647,2022,4,Hungary,Hungaroring,Budapest,Daniel Ricciardo,RB,11,9,10.0,Finished,1,2,124.507,99.54,Dry,Medium,No,7.0
+648,2024,22,Singapore,Marina Bay Street Circuit,Singapore,Lewis Hamilton,Mercedes,1,5,1.0,Finished,25,2,87.131,81.91,Mixed,Soft,Yes,18.0
+649,2024,1,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Charles Leclerc,Ferrari,7,4,1.0,Finished,25,3,88.712,126.54,Dry,Soft,No,24.0
+650,2022,8,Spain,Circuit de Barcelona-Catalunya,Barcelona,Fernando Alonso,Aston Martin,19,18,20.0,Finished,0,2,115.676,122.85,,Wet,Yes,20.0
+638,2024,13,Canada,Circuit Gilles-Villeneuve,Montreal,Oliver Bearman,Haas,4,4,2.0,Finished,18,3,109.164,87.05,Dry,Medium,No,8.0
+221,2023,20,Bahrain,Bahrain International Circuit,Sakhir,Esteban Ocon,Alpine,5,9,6.0,Finished,8,3,100.465,120.25,Dry,Medium,No,1.0
+429,2022,11,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Oscar Piastri,McLaren,11,14,11.0,Finished,0,2,103.427,107.23,Rain,Medium,No,20.0
+327,2025,14,China,Shanghai International Circuit,Shanghai,Yuki Tsunoda,RB,13,15,,DNS,0,3,114.151,89.13,Dry,Soft,No,28.0
+73,2025,11,Azerbaijan,Baku City Circuit,Baku,Nico Hulkenberg,Haas,16,17,17.0,Finished,0,2,86.007,92.55,Dry,Soft,No,3.0
+517,2023,6,Monaco,Circuit de Monaco,Monte Carlo,Yuki Tsunoda,RB,14,11,13.0,Finished,0,2,90.406,84.03,Dry,Intermediate,Yes,31.0
+182,2025,1,Abu Dhabi,Yas Marina Circuit,Abu Dhabi,Zhou Guanyu,Kick Sauber,16,17,16.0,Finished,0,2,91.16,74.96,Mixed,Soft,No,32.0
+132,2025,5,Australia,Albert Park Grand Prix Circuit,Melbourne,Esteban Ocon,Alpine,16,18,14.0,Finished,0,3,87.99,112.49,Mixed,Medium,No,5.0
