@@ -1,29 +1,29 @@
-from dataFileUploader import data_File_Uploader
+from modules.dataFileUploader import data_File_Uploader
+from modules.dataQualityAssesment import dataQualityAssesment
+from modules.dataInspection import dataInspection
 
 def main():
 
-    print("================================")
-    print("   DATA ANALYTICS PLATFORM")
-    print("================================")
+    df = data_File_Uploader()
 
-    dataset = data_File_Uploader()
+    if df is None:
+        print("dataset collection failed...")
+        return 
 
-    if  dataset is  None:
-        print("dataset is loading...")
-        return
+    print(" the Dataset Collectd is.....")
+    # print(df.head().to_string(index=False))
 
-    print("=====Dataset======")
-    print(f"total_rows : {dataset.shape[0]}")
-    print(f"total_cols : {dataset.shape[1]}")
-
-    print(f"dataset_columns_name : {dataset.columns.to_list()}")
-
-    df = dataset
-
-    print(df)
+    check = input("want to check Data Inspection : ")
+    if check == "yes":
+        print("====== QA ======")
+        dataInspection(df)
+        
     
-    # print(f"dataset preview : {dataset.head(4)}")
-
+    check = input("want to check Quality Assesment :")
+    if check == "yes":
+        print("====== QA ======")
+        dataQualityAssesment(df)
+    
 
 if __name__ == "__main__":
-    main()    
+     main()
